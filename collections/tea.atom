@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/tea.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-07-25T12:57:24-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872595617</id>
+    <published>2021-07-25T12:57:24-04:00</published>
+    <updated>2021-07-25T12:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-white-bai-mu-dan-tea"/>
+    <title>Organic White Bai Mu Dan Tea (Caffeine-Free)</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-white-bai-mu-dan-tea-pile.png?v=1627172038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            106.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic white Bai Mu Dan tea is caffeine free, certified Fairtrade and pairs well as a digestive after most foods. This is a premium tea that doesn't compare to mass produced commercial teas. It is considered the second highest grade of white tea after Silver Needle which starts at around $400/kg. For all but the most discerning tea enthusiasts Bai Mu Dan is the supreme white tea.</p>
+<p> </p>
+<p><strong>What is Bai Mu Dan Tea?</strong></p>
+<ul>
+<li>Bai Mu Dan, Bai Mudan or White Peony tea is a Chinese white tea. White Peony contains plucks of one leaf shoot and two young leaves each. It comes from the top two leaves and bud of each tea bush, which can be shade dried and/or lightly fired. This gives White Peony a pale cup color and delicate, nutty aroma. The complex flavor is toasty, slightly sweet and creamy, with a clean aftertaste.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_China</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872595617</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">106.51</s:price>
+      <s:sku>IMP-33062-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6801979113633</id>
+    <published>2021-06-18T16:55:57-04:00</published>
+    <updated>2021-06-18T16:55:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chamomile-citrus-tea"/>
+    <title>Organic Chamomile &amp; Citrus Herbal Tea (Caffeine-Free)</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chamomile-citrus-tea.png?v=1624048675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            70.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic chamomile &amp; citrus tea is a lemon grass tea mix to which is added orange peels, chamomile flowers, hibiscus flowers, lemon myrtle leaves, licorice root, lemon peels, spearmint leaves, and rose petals.</p>
+<p>Earthy, herbal, and floral flavors meet a smooth, refreshing, and delicate finish. Perfect tea for a cozy evening!</p>
+<p> </p>
+<p><img alt="OnlineOrganics Made in Canada" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg"></p>
+<p>Made in Canada, buying our organic chamomile &amp; citrus tea encourages local producers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6801979113633</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">70.06</s:price>
+      <s:sku>IMP-33067-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6802658164897</id>
+    <published>2021-06-18T16:55:46-04:00</published>
+    <updated>2021-06-18T16:55:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-vanilla-earl-grey-tea"/>
+    <title>Organic Vanilla Earl Grey Black Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-vanilla-earl-grey-tea.png?v=1624048673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            70.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic vanilla earl grey tea starts with a Indian black tea base to which is added natural vanilla flavor, natural bergamot flavor, marigold petals, and cornflower petals.</p>
+<p>Deeply earthy, herbal, and floral flavors meet a smooth and delicate finish. This is perfect morning to mid-day tea as it contains caffeine.</p>
+<p> </p>
+<p><strong>What is Earl Grey tea?</strong></p>
+<ul>
+<li>Earl Grey is one of the most recognized flavored teas in the world. This quintessentially British tea is typically a black tea base flavored with oil from the rind of bergamot orange, a citrus fruit with the appearance and flavor somewhere between an orange and a lemon with a little grapefruit and lime thrown in. Today’s cultivar of the bergamot orange is believed to be a hybrid of the bitter Seville orange native to the Mediterranean and a sweet lime/lemon native to Southeast Asia.</li>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6802658164897</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">70.06</s:price>
+      <s:sku>IMP-33068-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6803141165217</id>
+    <published>2021-06-18T16:55:33-04:00</published>
+    <updated>2021-06-18T16:55:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chunmee-green-tea"/>
+    <title>Organic &apos;&apos;Chunmee&apos;&apos; Green Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chunmee-green-tea.png?v=1624048671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            46.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic ''Chunmee'' green tea is made from non-fermented whole green tea leaves. One of the most classical Chinese green teas, Chunmee is a tea every tea lover has to try at least once. It offers a good perspective on a wide range of green tea flavors, may offer numerous benefits and tastes great, both hot and cold. It contains moderate amounts of caffeine and makes a great daily green tea.</p>
+<p> </p>
+<p><strong>What is Chunmee green tea?</strong></p>
+<ul>
+<li>Chunmee, Zhen Mei or Chun Mei is a Chinese green tea. It’s produced only in China, mostly in Anhui and Jiangxi Province. The English name of this tea is a "Precious Eyebrows tea" because of the small hand rolled leaves shaped in the form that resembles eyebrows.</li>
+</ul>
+<p> </p>
+<p><strong>What does Chunmee tea taste like?</strong></p>
+<ul>
+<li>Chunmee is a pan-fired tea. Pan-fired teas have a less vegetal and nuttier flavor, that can be light or more intense, depending on how the teas was made.</li>
+<li>Chunmee green tea has a bit more astringency than other green teas, and is suitable for drinking with sugar, honey or even milk. Because of its strong flavor, Chunmei is great for flavoring and scenting. It’s often used in some African countries for making mint tea.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_China</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803141165217</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">46.33</s:price>
+      <s:sku>IMP-33060-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6803142246561</id>
+    <published>2021-06-18T16:55:15-04:00</published>
+    <updated>2021-06-18T16:55:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-sencha-premium-green-tea"/>
+    <title>Organic &apos;&apos;Sencha&apos;&apos; Premium Green Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-sencha-premium-green-tea-pile.png?v=1624048669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            99.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic ''Sencha'' premium green tea green tea is made from non-fermented whole green tea leaves. This is a premium green tea from Japan. Almost 60% of all tea produced in Japan is sencha and most of it never leaves the country. It contains moderate amounts of caffeine and makes a great daily green tea.</p>
+<p> </p>
+<p><strong>What is Sencha green tea?</strong></p>
+<ul>
+<li>Sencha is a steamed green tea made from small-leaf "camellia sinensis". Japanese sencha has a refreshing flavor that can be described as vegetal, green, seaweedy, or grassy.</li>
+<li>After picking, the processing of sencha green tea starts with a quick steam of the fresh tea leaves, preventing oxidization and locking in the green color and flavor. The leaves are then rolled, shaped, and dried.</li>
+</ul>
+<p> </p>
+<p><strong>How to Drink Sencha</strong></p>
+<ul>
+<li>"Senchadō" is the traditional Japanese way of brewing and serving sencha green tea, and it involves a number of special tools and dishes. Entire rooms and buildings (tea halls) are dedicated to the art of tea brewing and drinking.</li>
+<li>For a proper simplified everyday brewing, you will need a Japanese teapot "kyusu", small sencha cups and a kettle. Kyusu teapots have a fine mesh or ceramic strainers suitable for brewing sencha tea. The good news is, you won’t need a strainer or any additional utensils. It pays to invest in a good kyusu teapot, as you will be able to use it for almost any type of tea.</li>
+<li>Infusing for too long (over 2 minutes) and/or at too high of a temperature (over 170 F) can give sencha tea a bitter flavor, overshadowing its fresh qualities.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Japan</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803142246561</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">99.24</s:price>
+      <s:sku>IMP-33069-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6803143786657</id>
+    <published>2021-06-18T16:55:04-04:00</published>
+    <updated>2021-06-18T16:55:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-jasmin-green-tea"/>
+    <title>Organic Jasmine Green Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-jasmin-green-tea-pile.png?v=1624048665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            73.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic jasmine green tea is simply a green tea infused with jasmine flowers. It has a light refreshing taste and can be lightened with milk and/or sweetened to taste. It contains moderate amounts of caffeine and makes a great daily green tea. It is certified Fairtrade.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803143786657</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">73.55</s:price>
+      <s:sku>IMP-33071-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6803146244257</id>
+    <published>2021-06-18T16:54:51-04:00</published>
+    <updated>2021-06-18T16:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-matcha-powder-green-tea"/>
+    <title>Organic &apos;&apos;Matcha&apos;&apos; Green Tea Powder</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-matcha-powder-green-tea-pile.png?v=1624048661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            101.42 - 243.39
+            <a href="https://onlineorganics.ca/products/organic-matcha-powder-green-tea">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic ''Matcha'' green tea powder is a type of green tea made by taking young tea leaves and grinding them into a bright green powder. The powder is then whisked with hot water. This is different from regular green tea, where the leaves are infused in water, then removed. With matcha, you’re drinking the whole tea leaves for maximum nutrients. It contains moderate amounts of caffeine (a little more than infused green tea leaves) and makes a good daily tea.</p>
+<p>Matcha leaves are grown on green tea bushes kept under shade. The shade increases the amount of chlorophyll content in the leaves, which is what makes them bright green and full of nutrients. The finest matcha comes from Japan which is where we source our matcha.</p>
+<p> </p>
+<p><strong>What are matcha tea benefits?</strong></p>
+<ul>
+<li>Matcha, like other green teas, contains a class of antioxidants called catechins. Matcha is high in a catechin called EGCG (epigallocatechin gallate), which is believed to have cancer-fighting effects on the body. Studies have linked green tea to a variety of health benefits, like helping to prevent heart disease, type 2 diabetes and cancer, and even encouraging weight loss.</li>
+</ul>
+<p> </p>
+<p><strong>What does matcha taste like?</strong></p>
+<ul>
+<li>A good quality matcha is bright green and smooth. An average matcha will be yellow and grainy to touch. That is why we only source authentic Japanese matcha.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Japan</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803146244257</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">101.42</s:price>
+      <s:sku>IMP-33024-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803146244257</id>
+      <title>3 kg (3 x 1 kg) Bag (20% OFF)</title>
+      <s:price currency="CAD">243.39</s:price>
+      <s:sku>IMP-33024-B3</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6803152011425</id>
+    <published>2021-06-18T16:54:39-04:00</published>
+    <updated>2021-06-18T16:54:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-honeydew-tea"/>
+    <title>Organic Honeydew White Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-honeydew-tea-pile.png?v=1624048659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            70.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic honeydew white tea starts with a white tea base to which is added apple pieces, orange peels, lemongrass herb, licorice root, natural honeydew flavor, and rose petals. It is a refreshing tea mix that can be enjoyed at any moment thanks to its low caffeine content.</p>
+<p> </p>
+<p><strong>What is white tea?</strong></p>
+<ul>
+<li>White tea is known to be one of the most delicate tea varieties because it is so minimally processed. White tea is harvested before the tea plant’s leaves open fully, when the young buds are still covered by fine white hairs, hence the name "white" tea.</li>
+<li>These buds and unfurled leaves from the newest growth on the tea plant are handpicked and then quickly and meticulously dried, so the leaves are not allowed to oxidize as long as leaves plucked for green or black tea production. This minimal processing and low oxidation results in some of the most delicate and freshest tea available.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803152011425</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">70.06</s:price>
+      <s:sku>IMP-33065-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6803155058849</id>
+    <published>2021-06-18T16:54:28-04:00</published>
+    <updated>2021-06-18T16:54:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-jasmine-blueberry-tea"/>
+    <title>Organic Jasmine &amp; Blueberry Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-jasmine-blueberry-tea-pile.png?v=1624048657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            70.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic jasmine &amp; blueberry tea green tea starts with a white tea &amp; green tea base infused with jasmine to which is added orange peels, apple pieces, rosehips berries, cornflower petals, rose petals, marigold petals, and blueberries. It is a refreshing tea mix that can be enjoyed at any moment thanks to its low-medium caffeine content.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6803155058849</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">70.06</s:price>
+      <s:sku>IMP-33066-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6801975509153</id>
+    <published>2021-06-18T16:52:59-04:00</published>
+    <updated>2021-06-18T16:52:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-black-indian-tea"/>
+    <title>Organic Black Indian Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-black-indian-tea.png?v=1624048677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Tea<br>
+        <strong>Price: </strong>
+            41.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic black Indian tea is a high-quality black tea sourced from India and is certified Fairtrade. Black tea offers a variety of health benefits because it contains antioxidants and compounds that can help reduce inflammation in the body.</p>
+<p>All the different varieties of tea come from the same plant, "camellia sinesis". The different ways in which the plant is harvested and processed, produces different types of tea. Black tea is known for its caffeine content as it contains more caffeine than its counterparts such as green or white tea. However, the caffeine content in Black Tea is far less as compared to coffee.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Tea</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_India</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6801975509153</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">41.76</s:price>
+      <s:sku>IMP-33070-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

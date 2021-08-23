@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/cans-jars.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-07-01T14:04:52-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804225130657</id>
+    <published>2021-07-01T14:04:52-04:00</published>
+    <updated>2021-07-01T14:04:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-almaverde-puree-passata"/>
+    <title>Organic Almaverde Tomato Puree (Passata)</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>Almaverde</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-almaverde-puree-passata-front.png?v=1625162456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Almaverde<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            2.04 - 19.60
+            <a href="https://onlineorganics.ca/products/organic-almaverde-puree-passata">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Almaverde tomato puree (Passata Di Pomodoro) is made from all organic Italian tomatoes from the Emilia Romagna region. This is a high quality product for all your cooking needs. We import this product directly from Italy for the most authentic taste!</p>
+<p>If you prefer to control the taste of your pasta sauce and other sauces, tomato puree is the way to go. Other than minimal salt, there is no other spices.</p>
+<p>Conveniently packaged in a 390 gram TetraPak that is fully recyclable and much more environmentally friendly than metal cans or glass jars.</p>
+<p>Tomatoe puree (passata) is a thick liquid made by cooking and straining tomatoes. Puree is smoother in texture than pulp (polpa) and has much less chunks of tomatoes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804225130657</id>
+      <title>390 g TetraPak</title>
+      <s:price currency="CAD">2.04</s:price>
+      <s:sku>NIC-SAP-PURE-R</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804225130657</id>
+      <title>4.68 kg (12 x 390 g) Box (20% OFF)</title>
+      <s:price currency="CAD">19.60</s:price>
+      <s:sku>NIC-SAP-PURE-B6</s:sku>
+      <s:grams>4680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6806519054497</id>
+    <published>2021-06-21T17:57:09-04:00</published>
+    <updated>2021-06-21T17:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-young-jackfruit-in-brine"/>
+    <title>Organic Young Jackfruit in Brine</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-young-jackfruit-in-brine-front.png?v=1625072412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            6.73 - 64.65
+            <a href="https://onlineorganics.ca/products/organic-young-jackfruit-in-brine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic young jackfruit in brine is a fruit native to India and Southeast Asian countries. It's the young jackfruit that is used for mostly for savory dishes. Jackfruit is extremely versatile and often praised in vegan recipes for its similarities to texture of shredded meat! It has a texture very similar to chicken or pulled pork. Jackfruit is not chewy, it is soft and melts in your mouth. It easily absorbs flavors so it can be made to taste pretty much anything.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Sri Lanka</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6806519054497</id>
+      <title>400 ml Can</title>
+      <s:price currency="CAD">6.73</s:price>
+      <s:sku>IMP-36135-R</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6806519054497</id>
+      <title>4.8 L (12 x 400 ml cans) (20% OFF)</title>
+      <s:price currency="CAD">64.65</s:price>
+      <s:sku>IMP-36135-B4</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6806462202017</id>
+    <published>2021-06-21T17:57:09-04:00</published>
+    <updated>2021-06-21T17:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-pitted-kalamata-olives"/>
+    <title>Organic Pitted Kalamata Olives</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-pitted-kalamata-olives-pile.png?v=1624311362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic pitted Kalamata olives are a high quality product that you can count on for all your cooking needs. They are considered by most as the healthiest olive there is and plays an important role in the Mediterranean diet.</p>
+<p> </p>
+<p><strong>What are Kalamata olives?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Black or deep purple Kalamata olives are the best-known Greek olive. Grown in the valley of Messina, near the town of Kalamata, they're harvested in December once fully ripened, which explains their dark color. The name is also often spelled Calamata.</li>
+<li>The olive has tight, snappy, shiny skin, and a distinctive almond shape. Sliced Kalamata olives cured in a red-wine vinegar brine are often considered the best. They also serve well as a tapenade spread or as an ingredient in a Greek salad.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6806462202017</id>
+      <title>20 kg Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">480.00</s:price>
+      <s:sku>IMP-36700-B20</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6806448341153</id>
+    <published>2021-06-21T17:57:08-04:00</published>
+    <updated>2021-06-21T17:57:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-coconut-milk-18"/>
+    <title>Organic Coconut Milk 18%</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-coconut-milk-18-front.png?v=1625072406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            4.71 - 155.20
+            <a href="https://onlineorganics.ca/products/organic-coconut-milk-18">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic coconut milk 18% is pure milky goodness for all your vegan cooking recipes.</p>
+<p> </p>
+<p><strong>What is Coconut Milk?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Well, it’s not milk in the dairy sense, but close to its level of creaminess. It is basically just shredded coconut flesh that is pureed with water and strained to create a rich, shock-white liquid that can lend body, flavor, and richness to soups, curries, wilted greens, and much more.</li>
+</ul>
+<p> </p>
+<p><strong>What does the 18% mean?</strong></p>
+<ul style="list-style-type: disc;">
+<li>It refers to the fat content in the coconut milk. Below are the 4 most common coconut milk/cream products on the market:</li>
+<ul>
+<li>Light coconut milk: 6.6-12.6%</li>
+<li>Coconut milk: 12.7-25.3%</li>
+<li>Coconut cream: 25.4-37.3%</li>
+<li>Coconut cream concentrate: 37.4-100%</li>
+</ul>
+<li>Coconut milk can easily be boiled down into cream as required.</li>
+</ul>
+<p> </p>
+<p><strong>What the difference between coconut oil, coconut butter, coconut cream and coconut milk?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Coconut oil is a fat made from pressed coconut meat. It contains about 99% fat and not much of anything else.</li>
+<li>Coconut butter (70% fat) is made with just shredded coconut that has been blended into a paste. Just like our other nut butters it only contains one ingredient.</li>
+<li>Coconut cream is made by simmering coconut meat in water, The water then separates into a creamy, thick layer and a thin, more watery layer. The thick layer is packaged as coconut cream (25.4-37.3% fat), and the thinner liquid is labeled as coconut milk (12.7-25.3% fat). It contains much of the nutrients found in coconut meat.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Sri Lanka</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6806448341153</id>
+      <title>400 ml Can</title>
+      <s:price currency="CAD">4.71</s:price>
+      <s:sku>IMP-36132-R</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6806448341153</id>
+      <title>4.8 L (12 x 400 ml cans) (20% OFF)</title>
+      <s:price currency="CAD">45.26</s:price>
+      <s:sku>IMP-36132-B4</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6806448341153</id>
+      <title>20 kg Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">155.20</s:price>
+      <s:sku>IMP-36108-B20</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804178763937</id>
+    <published>2021-06-19T13:48:49-04:00</published>
+    <updated>2021-06-19T13:48:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-almaverde-tomato-pulp"/>
+    <title>Organic Almaverde Tomato Pulp (Polpa)</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>Almaverde</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-almaverde-tomato-pulp-front.png?v=1624129300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Almaverde<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            2.04 - 19.60
+            <a href="https://onlineorganics.ca/products/organic-almaverde-tomato-pulp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Almaverde tomato pulp is made from all organic Italian tomatoes from the Emilia Romagna region. This is a high quality product for all your cooking needs. We import this product directly from Italy for the most authentic taste!</p>
+<p>If you prefer to control the taste of your pasta sauce and other sauces, tomato pulp is the way to go. Other than minimal salt, there is no other spices.</p>
+<p>Conveniently packaged in a 390 gram TetraPak that is fully recyclable and much more environmentally friendly than metal cans or glass jars.</p>
+<p>Pulp (polpa) consists of crushed tomatoes that are processed through a sieve to create a slightly chunky mixture. Polpa is used as an ingredient to flavor soups, sauces and pasta dishes. Polpa is coarser in texture than puree (passata).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804178763937</id>
+      <title>390 g TetraPak</title>
+      <s:price currency="CAD">2.04</s:price>
+      <s:sku>NIC-ALM-PULP-R</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804178763937</id>
+      <title>4.68 kg (12 x 390 g) Box (20% OFF)</title>
+      <s:price currency="CAD">19.60</s:price>
+      <s:sku>NIC-ALM-PULP-B4</s:sku>
+      <s:grams>4680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6040185405601</id>
+    <published>2021-01-27T16:14:26-05:00</published>
+    <updated>2021-01-27T16:14:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-whole-hand-peeled-tomatoes"/>
+    <title>Organic Whole &quot;Hand-peeled&quot; Italian Tomatoes</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>Travaglini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-whole-hand-peeled-tomatoes-front.png?v=1623967857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Travaglini<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            5.82 - 55.95
+            <a href="https://onlineorganics.ca/products/organic-whole-hand-peeled-tomatoes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic whole "Hand-peeled" Italian Tomatoes undergo minimal heating, usually just the quick burst of steam necessary to remove the skins. Whole peeled tomatoes are the most versatile of all the canned tomatoes. Their uses are unlimited and being in a jar you can keep plenty in your pantry.</p>
+<p>These are really high quality tomatoes that are rarely found here in Canada. If you want the authentic italian taste look no further than our Travaglini imported italian tomatoes.</p>
+<p>They contain only one ingredient: Organic italian tomatoes, no added salt of other additives!</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years</s:tag>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6040185405601</id>
+      <title>580 ml Glass Jar</title>
+      <s:price currency="CAD">5.82</s:price>
+      <s:sku>NIC-TOMPELEES-R</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6040185405601</id>
+      <title>12 x 580 ml Wholesale Box</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>NIC-TOMPELEES-B6</s:sku>
+      <s:grams>10320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6009226100897</id>
+    <published>2021-01-12T09:15:57-05:00</published>
+    <updated>2021-01-12T09:15:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-tomato-pulp-puree"/>
+    <title>Organic Tomato Pulp</title>
+    <s:type>Dried Fruit</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-tomato-pulp-pile.png?v=1610460960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Dried Fruit<br>
+        <strong>Price: </strong>
+            522.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic tomato pulp is also called tomato puree. It is a thick puree of cooked tomatoes that is slightly less watery than tomato sauce. It can be used in place of tomato sauce or as a base to begin your own sauce. It is not concentrated like tomato paste.</p>
+<p>If you prefer to control the taste of your pasta sauce and other sauces, tomato pulp is the way to go. Other than minimal salt, there is no other spices.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6009226100897</id>
+      <title>200 kg Wholesale Barrel (20% OFF)</title>
+      <s:price currency="CAD">522.00</s:price>
+      <s:sku>FAR-BIO1062-B200</s:sku>
+      <s:grams>200000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6009225871521</id>
+    <published>2021-01-12T09:15:52-05:00</published>
+    <updated>2021-01-12T09:15:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-peeled-italian-tomatoes"/>
+    <title>Organic Whole Peeled Italian Tomatoes in Tomato Juice</title>
+    <s:type>Cans &amp; Jars</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-peeled-italian-tomatoes-front_dc142540-c075-4709-8fc6-cb90c4eaff55.png?v=1623967795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Cans &amp; Jars<br>
+        <strong>Price: </strong>
+            14.92 - 71.55
+            <a href="https://onlineorganics.ca/products/organic-peeled-italian-tomatoes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic whole Italian peeled tomatoes undergo minimal heating, usually just the quick burst of steam necessary to remove the skins. Whole peeled tomatoes are the most versatile of all the canned tomatoes. There uses are unlimited and being canned you can keep plenty in your pantry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 Years</s:tag>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6009225871521</id>
+      <title>2.5 kg Can</title>
+      <s:price currency="CAD">14.92</s:price>
+      <s:sku>NIC-TO-BIO01-B</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6009225871521</id>
+      <title>15 kg (6 x 2.5 kg) Box (20% OFF)</title>
+      <s:price currency="CAD">71.55</s:price>
+      <s:sku>NIC-TO-BIO01-B15</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6009225576609</id>
+    <published>2021-01-12T09:15:48-05:00</published>
+    <updated>2021-01-12T09:15:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-italian-tomato-paste"/>
+    <title>Organic Italian Tomato Paste</title>
+    <s:type>Dried Fruit</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-italian-tomato-paste-pile.png?v=1610460951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Dried Fruit<br>
+        <strong>Price: </strong>
+            125.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Italian tomato paste is an essential pantry staple to have on hand for whipping up delicious, deeply flavored meals-it can transform a ho-hum recipe, like a soup or sauce, into something really special.</p>
+<p>What is tomato paste, anyway? Tomato paste is basically super-concentrated tomato sauce. If you take tomatoes and cook them down, strain the skin and seeds from the mixture and continue to cook the sauce down until it forms a thick consistency, you get tomato paste.</p>
+<p>The benefit of using tomato paste over other canned tomatoes (like tomato puree, crushed tomatoes or diced tomatoes) or even fresh tomatoes, is that you get the deep tomato flavor without all the extra water, making it great for recipes where you don't want a ton of liquid, like meatloaf or taco filling. Tomato paste can be used to intensify flavor over time in slow-cooked recipes or can quickly add a burst of flavor in quick 30-minute recipes for weeknights. To get the most flavor potential out of your tomato paste, plan to add it early on in the cooking process before adding liquids like water, broth or other canned tomatoes. This way, the tomatoes have the chance to caramelize and develop even further.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Cans &amp; Jars</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6009225576609</id>
+      <title>13.2 kg (6 x 2.2 kg) Box (20% OFF)</title>
+      <s:price currency="CAD">125.40</s:price>
+      <s:sku>FAR-TO-BIO03-B13</s:sku>
+      <s:grams>13200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

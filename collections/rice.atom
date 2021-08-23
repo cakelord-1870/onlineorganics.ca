@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/rice.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-07-25T12:25:50-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872431777</id>
+    <published>2021-07-25T12:25:50-04:00</published>
+    <updated>2021-07-25T12:25:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-medium-grain-sushi-rice"/>
+    <title>Organic White Sushi Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-medium-grain-sushi-rice-pile.png?v=1627172048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            157.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic white sushi rice is a dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape. It has more taste the more you chew, and also has a sweetness to it.</p>
+<p> </p>
+<p><strong>What Type of Rice is Sushi Rice?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Long-grain rice, such as Basmati or Jasmine tends to have a dry fluffy texture and the grains don’t stick together thanks to a high ratio of Amylose to Amylopectin. This also causes long-grain rice to get hard as it cools. Short grain rice, on the other hand, has a higher ratio of Amylopectin to Amylose. This not only makes the rice sticky, but it also helps keep the rice soft, even after cooling.</li>
+<li>There are many different kinds of short and medium grain rice, but if you’re planning on making sushi, getting a dedicated sushi rice will help you get a better outcome at making good sushi.</li>
+<li>Our organic medium grain sushi rice is the only recommended sushi rice we carry. Using our short grain Arborio rice for sushi will not give good results as starch structures at the core of an Arborio grain deform, making for a firm, toothy center when cooked. While this trait is great for risotto as it gives the dish its signature al dente texture it’s less than ideal for sushi.</li>
+</ul>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Argentina</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872431777</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">157.00</s:price>
+      <s:sku>IMP-31057-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872399009</id>
+    <published>2021-07-25T12:25:50-04:00</published>
+    <updated>2021-07-25T12:25:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-red-jasmine-rice"/>
+    <title>Organic Red Jasmine Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-red-jasmine-rice-pile.png?v=1627172050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            186.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic red jasmine rice also known as Thai red rice is deeply pigmented and contains an impressive array of nutrients and beneficial plant compounds. This type of rice is higher in protein and fiber than white rice varieties, but where it really shines is in its antioxidant content. Like black rice, it’s packed with flavonoid antioxidants, including the anthocyanins apigenin, myricetin, and quercetin. In fact, research shows that red jasmine rice has significantly more potential to fight free radicals and contains higher concentrations of flavonoid antioxidants than brown rice.</p>
+<p>Jasmine rice get its pleasant popcorn-like smell from presence of a molecule called 2-acetyl-1-pyrroline that is present in this rice variety.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Thailand</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872399009</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">186.00</s:price>
+      <s:sku>IMP-31069-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872366241</id>
+    <published>2021-07-25T12:25:49-04:00</published>
+    <updated>2021-07-25T12:25:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-jade-pearl-rice"/>
+    <title>Organic Jade Pearl Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-jade-pearl-rice-pile.png?v=1627172052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            54.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic jade pearl rice is nutritionally dense and provides a high amount of protein, fiber and chlorophyll. The stems and leaves of the bamboo plant are juiced to retain the chlorophyll and then this extract is added to the rice during the milling process. This is what gives the rice the extra nutritional value and its gorgeous jade green color.</p>
+<p>It makes an exquisite plate presentation for dishes such as an Asian risotto, sushi, rice pudding, stir-fry recipes, soups and rice balls. It can also bring the presentation of a meal up to the next level by adding it as a side dish beside anything else. You’ll love the texture, aroma, flavor and visual appeal of this rice and you’ll find that it can be incorporated into many other recipes that call for plain white rice.</p>
+<p> </p>
+<p><strong>What is Jade Pearl Rice?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Jade Pearl Rice is the trademarked name for an organic pearled short-grain rice infused with a bamboo extract. Grown in the forests of South Central Chin, Jade Pearl Rice has a pale jade color, an aroma of a bamboo forest, and a very faint vanilla taste.</li>
+<li>Although the rice is touted as the perfect rice for a dessert pudding (and it is ideal for rice pudding), Jade Pearl Rice is also excellent as part of a main course for lunch or dinner.</li>
+</ul>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_China</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872366241</id>
+      <title>5 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">54.20</s:price>
+      <s:sku>IMP-31078-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872333473</id>
+    <published>2021-07-25T12:25:49-04:00</published>
+    <updated>2021-07-25T12:25:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-ancient-black-rice-mix"/>
+    <title>Organic Ancient Black Rice Mix</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-ancient-black-rice-mix-pile.png?v=1627172054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic ancient black rice mix is a 50/50 blend of ancient black rice and volcano rice. This short grained rice mix tones down the intensity of black rice into a ready to cook mix.</p>
+<p> </p>
+<p><strong>What is Ancient Black Rice?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Ancient black rice is a short grained very dark purple Chinese rice commonly referred to as "forbidden rice" because of its long and interesting history. As you probably know, all rice varieties are a substantial and important crop in the diet of nearly every Asian population, and have been for thousands of years. In China, black rice has been known for being good for the kidneys, stomach and liver since ancient times.</li>
+<li>Thousands of years ago in ancient China, noble Chinese men took possession of every grain of the black forbidden rice, banning its consumption among anyone who was not royalty or very wealthy.</li>
+<li>The crop was only grown in very limited quantities, closely monitored, and reserved for only the highest elite class. The common Chinese people were not allowed to grow or consume this black forbidden rice, which led to its unique name that it still carries with it today.</li>
+</ul>
+<p> </p>
+<p><strong>What is Volcano Rice?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Volcano Rice is a mineral and antioxidant packed blend of traditional brown and red rice grown on volcanic soils rich in magnesium, manganese and zinc. It contains brown rice, whole grain red rice and lightly milled red rice reputed to restore vitality due to its high mineral, fiber and antioxidant content.</li>
+</ul>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872333473</id>
+      <title>5 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">42.90</s:price>
+      <s:sku>IMP-32035-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872300705</id>
+    <published>2021-07-25T12:25:48-04:00</published>
+    <updated>2021-07-25T12:25:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-ancient-black-rice"/>
+    <title>Organic Ancient Black Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-ancient-black-rice-pile.png?v=1627172056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic ancient black rice is the type of rice that is richest in powerful disease-fighting antioxidants, but it also contains dietary fiber, anti-inflammatory properties. One serving of black or forbidden rice contains only around 160 calories, but offers a very high amount of flavonoid phytonutrients, a good source of important fiber, substantial mineral content including iron and copper, and even a good source of plant based protein. Just the outside hull of the grain has one of the highest levels of anthocyanin antioxidants of any food!</p>
+<p> </p>
+<p><strong>What is Ancient Black Rice?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Ancient black rice is a short grained very dark purple Chinese rice commonly referred to as "forbidden rice" because of its long and interesting history. As you probably know, all rice varieties are a substantial and important crop in the diet of nearly every Asian population, and have been for thousands of years. In China, black rice has been known for being good for the kidneys, stomach and liver since ancient times.</li>
+<li>Thousands of years ago in ancient China, noble Chinese men took possession of every grain of the black forbidden rice, banning its consumption among anyone who was not royalty or very wealthy.</li>
+<li>The crop was only grown in very limited quantities, closely monitored, and reserved for only the highest elite class. The common Chinese people were not allowed to grow or consume this black forbidden rice, which led to its unique name that it still carries with it today.</li>
+</ul>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_China</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872300705</id>
+      <title>5 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>IMP-31077-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749340405921</id>
+    <published>2020-10-03T20:10:44-04:00</published>
+    <updated>2020-10-03T20:10:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-red-rice-grown-on-soil"/>
+    <title>Organic Red Rice (Grown on Soil)</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-red-rice-grown-on-soil-pile.jpg?v=1603291111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            128.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic red rice is a odd variety that is grown on dry soil instead of flooded rice paddies. Red rice gets its rich color from an antioxidant called anthocyanins, which are also found in deep purple or reddish fruits and vegetables. The compound is believed to have properties that can reduce inflammation, allergy, prevent risks of cancer and help in weight management.</p>
+<p>The manganese present in both varieties helps in strengthening metabolism, while magnesium helps in migraine, lowers blood pressure as well as risks of heart attacks. Along with calcium, magnesium helps in maintaining healthy bones and teeth, and prevents risks of arthritis and osteoporosis. Selenium on the other hand protects the body against infections.</p>
+<p>Red rice is a whole rice just like brown rice meaning that it contains all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749340405921</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">128.75</s:price>
+      <s:sku>GEN-GG1585-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749340340385</id>
+    <published>2020-10-03T20:10:42-04:00</published>
+    <updated>2020-10-03T20:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-white-arborio-rice"/>
+    <title>Organic White Arborio Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-white-arborio-rice-pile.jpg?v=1603291113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            157.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic white arborio rice is an Italian variety of superfino rice, one of the largest among the short Italian rice varieties in the species Oryza sativa japonica. Named after the commune of Arborio in the northwestern Italian region of Piedmont, Arborio rice is high in amylopectin starch, which is what gives risotto its creamy texture. The oval grains are about a quarter of an inch long and typically white.</p>
+<p>Most famous for its use in risotto, Arborio rice lends its creamy texture for rice pudding, porridge, or other starchy desserts. If rinsed and cooked in the rice cooker or via the stovetop absorption method, rather than in the slow technique of risotto, Arborio won’t absorb as much water and can be used as you would other short-grain rice varieties.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749340340385</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">157.00</s:price>
+      <s:sku>GEN-GG1590-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749340176545</id>
+    <published>2020-10-03T20:10:39-04:00</published>
+    <updated>2020-10-03T20:10:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-red-cargo-rice"/>
+    <title>Organic Red Cargo Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-red-cargo-rice-pile.jpg?v=1603291116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic red cargo rice is a special variety of rice that gets its color red from its anthocyanins content. Anthocyanins are colored water-soluble pigments, which are responsible for the colors red, purple and blue in fruits, grains and vegetables.</p>
+<p>Red cargo rice helps in regulating the insulin level. The low glycemic index of red rice helps in controlling the sugar level and is good for diabetic patients.</p>
+<p>The term "cargo" originates from the idea that this type of rice is exported by ship in bulk to the importers who then package the rice in small 1 kg bags for the market, unlike white rice which is usually pre-packed by exporters into 25 kg bags.</p>
+<p>Red rice is a whole rice just like brown rice meaning that it contains all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Thailand</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749340176545</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku>GEN-GG1580-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749340143777</id>
+    <published>2020-10-03T20:10:37-04:00</published>
+    <updated>2020-10-03T20:10:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-brown-basmati-rice"/>
+    <title>Organic Brown Basmati Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-brown-basmati-rice-pile.jpg?v=1603291117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            60.43 - 118.25
+            <a href="https://onlineorganics.ca/products/organic-brown-basmati-rice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic brown basmati rice is gluten-free and low in fat. It contains all eight essential amino acids, folic acid, and is very low in sodium and has no cholesterol. Literally translated as “full of aroma” in Hindi, basmati rice has been described as having the aroma of sun-baked wood and flowers.</p>
+<p>Basmati tastes like no other rice on earth. Unlike ordinary long grain rice the light, fluffy texture of Basmati’s long, slender grains offers the palate a totally different experience in terms of mouth feel and taste (distinctive, unique and slightly “nutty”).</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749340143777</id>
+      <title>25 lb Wholesale Bag (10% OFF)</title>
+      <s:price currency="CAD">60.43</s:price>
+      <s:sku>GEN-GG1550-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749340143777</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">118.25</s:price>
+      <s:sku>GEN-GG1550-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749340045473</id>
+    <published>2020-10-03T20:10:35-04:00</published>
+    <updated>2020-10-03T20:10:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-brown-jasmine-rice"/>
+    <title>Organic Brown Jasmine Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-brown-jasmine-rice-pile.jpg?v=1603291119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            118.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic brown jasmine rice is a great choice if you want the perfect pairing for curries, biryani and other South, Southeast or East Asian dishes. Jasmine rice is also known as Thai fragrant rice, given its pleasant popcorn-like smell. This is due to the presence of a molecule called 2-acetyl-1-pyrroline.</p>
+<p>The name “Jasmine Rice” was given to this type of white rice in Thailand because of its pure white color like the jasmine flower. Jasmine rice is stickier than other long-grain rice. It also has a distinct soft, moist texture and a slightly sweet flavor.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Thailand</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749340045473</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">118.25</s:price>
+      <s:sku>GEN-GG1570-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749339979937</id>
+    <published>2020-10-03T20:10:33-04:00</published>
+    <updated>2020-10-03T20:10:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-long-brown-rice"/>
+    <title>Organic Long Brown Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-long-brown-rice-pile.jpg?v=1603291120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            103.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic long brown rice is a whole grain, meaning that it contains three parts of the grain kernel: the outer, fiber-filled layer called the bran, the nutrient-rich core called the germ, and the starchy middle layer called the endosperm.</p>
+<p>Long brown rice is a highly nutritious food. It is a whole grain that is relatively low in calories, high in fiber, gluten-free and can be incorporated into a variety of dishes. Long brown rice contains no trans-fat or cholesterol. It has only trace amounts of fat and sodium.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Argentina</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749339979937</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">103.75</s:price>
+      <s:sku>GEN-GG1450-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749339914401</id>
+    <published>2020-10-03T20:10:31-04:00</published>
+    <updated>2020-10-03T20:10:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-large-wild-rice"/>
+    <title>Organic Large Wild Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-large-wild-rice-pile.jpg?v=1603291122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            754.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Canadian large wild rice is a naturally grown aquatic grass seed, not a farm crop. Unlike much of the Wild Rice in grocery stores, true natural Wild Rice is not genetically modified and grows without the use of fertilizers or pesticides.</p>
+<p>Canadian large wild rice is all together a different plant than American wild rice. In fact, the long, spindly needles are more related to wild grass than rice. Canadians have dubbed their special grain Canadian Lake Wild rice, a beautiful and apt description of the rice’s growing environment, where the grains billow above the waters.</p>
+<p>Canadian large wild rice can contain as much as 30 times the antioxidants as white rice! Antioxidants are powerful substances that prevent cell damage caused by oxidants, protecting your body from disease and helping you age healthfully.</p>
+<p>To achieve a rich, dark hue and delicious nutty flavor, our large wild rice is slow roasted to achieve the finest final product.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749339914401</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">754.00</s:price>
+      <s:sku>GEN-GG1420-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749338669217</id>
+    <published>2020-10-03T20:09:58-04:00</published>
+    <updated>2020-10-03T20:09:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-white-jasmine-rice"/>
+    <title>Organic White Jasmine Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-white-jasmine-rice-pile.jpg?v=1603291179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            6.22 - 124.50
+            <a href="https://onlineorganics.ca/products/organic-white-jasmine-rice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic jasmine rice is a great choice if you want the perfect pairing for curries, biryani and other South, Southeast or East Asian dishes. Jasmine rice is also known as Thai fragrant rice, given its pleasant popcorn-like smell. This is due to the presence of a molecule called 2-acetyl-1-pyrroline.</p>
+<p>The name “Jasmine Rice” was given to this type of white rice in Thailand because of its pure white color like the jasmine flower. Jasmine rice is stickier than other long-grain rice. It also has a distinct soft, moist texture and a slightly sweet flavor.</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Thailand</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338669217</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">6.22</s:price>
+      <s:sku>GEN-GG1570-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338669217</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">124.50</s:price>
+      <s:sku>GEN-GG1570-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749338570913</id>
+    <published>2020-10-03T20:09:56-04:00</published>
+    <updated>2020-10-03T20:09:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-white-basmati-rice"/>
+    <title>Organic White Basmati Rice</title>
+    <s:type>Rice</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-white-basmati-rice-pile.jpg?v=1603291190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Rice<br>
+        <strong>Price: </strong>
+            5.89 - 118.00
+            <a href="https://onlineorganics.ca/products/organic-white-basmati-rice">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic white basmati rice is gluten-free and low in fat. It contains all eight essential amino acids, folic acid, and is very low in sodium and has no cholesterol. Literally translated as "full of aroma" in Hindi, basmati rice has been described as having the aroma of sun-baked wood and flowers.</p>
+<p>Basmati tastes like no other rice on earth. Unlike ordinary long grain rice the light, fluffy texture of Basmati’s long, slender grains offers the palate a totally different experience in terms of mouth feel and taste (distinctive, unique and slightly “nutty”).</p>
+<p> </p>
+<p><strong>What is the difference between brown, red, black and white rice?</strong></p>
+<ul>
+<li>Brown, red and black rice are whole grain rice. That means they contain all parts of the grain, including the fibrous bran, the nutritious germ and the carb-rich endosperm.</li>
+<li>White rice, on the other hand, has had the bran and germ removed, which are the most nutritious parts of the grain.</li>
+</ul>
+<p> </p>
+<p><strong>What are your different types of rice?</strong></p>
+<ul>
+<li>
+<em>Ancient Black Rice</em> (Black):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Nutty, earthy flavor and a very subtle, slightly sweet interior.</li>
+<li>Features: Also called "Forbidden Rice", this is a special Chinese rice that is very nutritious.</li>
+</ul>
+</li>
+<li>
+<em>Ancient Black Rice Mix</em> (Multi-colored):
+<ul>
+<li>Origin: Multiple origins packaged in Canada</li>
+<li>Type: Multiple types</li>
+<li>Fragrance: Multiple fragrances</li>
+<li>Features: Special mix of a ancient black rice and volcano rice (brown rice, whole grain red rice and lightly milled red rice) grown on volcanic soils, truly unique.</li>
+</ul>
+</li>
+<li>
+<em>Basmati Rice</em> (Brown and White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Nutty flavor and aroma.</li>
+<li>Features: It might be called extra-long, as the grains are longer, slenderer and the ends are much sharper. Basmati rice gets two times bigger in size once cooked. The grains stay separated, dry and fluffy.</li>
+</ul>
+</li>
+<li>
+<em>Jade Pearl Rice</em> (Green):
+<ul>
+<li>Origin: China</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Aroma of a bamboo forest and a light vanilla taste.</li>
+<li>Features: Trademarked pearled short-grain rice infused with a bamboo extract, perfect for making rice pudding. </li>
+</ul>
+</li>
+<li>
+<em>Jasmine Rice</em> (Brown, Red and White):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Floral flavor and aroma, like sweet popcorn.</li>
+<li>Features: It has slightly rounded ends and is a bit translucent. When cooked jasmine rice clumps together making it more moist and sticky. </li>
+</ul>
+</li>
+<li>
+<em>Long Brown Rice</em> (Brown):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic rice variety. Is cheaper than other long brown rice as less attention is put on its aroma.</li>
+</ul>
+</li>
+<li>
+<em>Red Cargo Rice</em> (Red):
+<ul>
+<li>Origin: Thailand</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Generic red Thai rice. Less intense aroma than jasmine.</li>
+</ul>
+</li>
+<li>
+<em>Red Rice Grown on Soil</em> (Red):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Lightly sweet and nutty.</li>
+<li>Features: Is cultivated on dry soil. This growing technique is very original. Other than that it is very similar to Red Cargo Rice.</li>
+</ul>
+</li>
+<li>
+<em>Wild Large Rice</em> (Black):
+<ul>
+<li>Origin: Canada</li>
+<li>Type: Long grain rice</li>
+<li>Fragrance: Intensely nutty and smoky.</li>
+<li>Features: Unique Canadian grass rice with the longest grain and is our only roasted rice.</li>
+</ul>
+</li>
+<li>
+<em>White Arborio Rice</em> (White):
+<ul>
+<li>Origin: Pakistan</li>
+<li>Type: Short grain rice</li>
+<li>Fragrance: Neutral</li>
+<li>Features: Arborio rice is very starchy and has short, almost oval grains. It is the base of any good risotto.</li>
+</ul>
+</li>
+<li>
+<em>White Sushi Rice</em> (White):
+<ul>
+<li>Origin: Argentina</li>
+<li>Type: Medium grain rice</li>
+<li>Fragrance: Neutral aroma, light sweet taste.</li>
+<li>Features: Dedicated sticky rice especially grown for making sushi. You will get optimal sushi results with this rice which when cooked is soft and sticky and keeps its shape.</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Rice</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338570913</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">5.89</s:price>
+      <s:sku>GEN-GG1510-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338570913</id>
+      <title>25 lb Wholesale Bag (10% OFF)</title>
+      <s:price currency="CAD">60.20</s:price>
+      <s:sku>GEN-GG1510-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338570913</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">118.00</s:price>
+      <s:sku>GEN-GG1510-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

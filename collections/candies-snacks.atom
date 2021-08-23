@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/candies-snacks.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-06-21T11:12:53-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805241069729</id>
+    <published>2021-06-21T11:12:53-04:00</published>
+    <updated>2021-06-21T11:12:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-safari-trail-mix"/>
+    <title>Organic &apos;&apos;Safari&apos;&apos; Trail Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-safari-trail-mix-pile.png?v=1624225395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            183.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic "Safari" trail mix is a perfect snack for lunches and all your outdoor activities. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This trail mix contains:</strong></p>
+<ul>
+<li>Organic raisins</li>
+<li>Organic pumpkin seeds</li>
+<li>Organic almonds</li>
+<li>Organic cashews</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic "Safari" trail mix encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805241069729</id>
+      <title>25 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">183.80</s:price>
+      <s:sku>IMP-32050-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805239496865</id>
+    <published>2021-06-21T11:12:51-04:00</published>
+    <updated>2021-06-21T11:12:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-palladium-trail-mix"/>
+    <title>Organic &apos;&apos;Palladium&apos;&apos; Trail Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-palladium-trail-mix-pile.png?v=1624225398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            233.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic "Palladium" trail mix is a perfect snack for lunches and all your outdoor activities. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This trail mix contains:</strong></p>
+<ul>
+<li>Organic raisins</li>
+<li>Organic cashews</li>
+<li>Organic goji berries</li>
+<li>Organic mulberries</li>
+<li>Organic almonds</li>
+<li>Organic pistachios</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic "Palladium" trail mix encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805239496865</id>
+      <title>25 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">233.78</s:price>
+      <s:sku>IMP-32054-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805235335329</id>
+    <published>2021-06-21T11:12:50-04:00</published>
+    <updated>2021-06-21T11:12:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gaia-trail-mix"/>
+    <title>Organic &apos;&apos;Gaia&apos;&apos; Trail Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gaia-trail-mix-pile.png?v=1624225402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            226.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic "Gaia" trail mix is a perfect snack for lunches and all your outdoor activities. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This trail mix contains:</strong></p>
+<ul>
+<li>Organic sunflower seeds</li>
+<li>Organic soybeans</li>
+<li>Organic cranberries</li>
+<li>Organic raisins</li>
+<li>Organic soya almonds</li>
+<li>Organic pineapples</li>
+<li>Organic goji berries</li>
+<li>Organic blueberries</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic "Gaia" trail mix encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805235335329</id>
+      <title>25 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">226.06</s:price>
+      <s:sku>IMP-32053-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805071102113</id>
+    <published>2021-06-21T11:12:50-04:00</published>
+    <updated>2021-06-21T11:12:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-deluxe-5-nut-trail-mix"/>
+    <title>Organic &apos;&apos;Deluxe 5 Nut&apos;&apos; Trail Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-deluxe-5-nut-trail-mix-pile.png?v=1624225404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic "Deluxe 5 Nut" trail mix is a perfect snack for lunches and all your outdoor activities. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This trail mix contains:</strong></p>
+<ul>
+<li>Organic almonds</li>
+<li>Organic cashews</li>
+<li>Organic hazelnuts</li>
+<li>Organic brazil nuts</li>
+<li>Organic pecans</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic "Deluxe 5 Nut" trail mix encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805071102113</id>
+      <title>5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">179.90</s:price>
+      <s:sku>IMP-32060-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805068972193</id>
+    <published>2021-06-21T11:12:49-04:00</published>
+    <updated>2021-06-21T11:12:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-andalucia-trail-mix"/>
+    <title>Organic &apos;&apos;Andalucia&apos;&apos; Trail Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-andalucia-trail-mix-pile.png?v=1624225406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            226.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic "Andalucia" trail mix is a perfect snack for lunches and all your outdoor activities. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This trail mix contains:</strong></p>
+<ul>
+<li>Organic cranberries</li>
+<li>Organic raisins</li>
+<li>Organic pumpkin seeds</li>
+<li>Organic cashews</li>
+<li>Organic soy almonds</li>
+<li>Organic mulberries</li>
+<li>Organic walnuts</li>
+<li>Organic cherries</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic "Andalucia" trail mix encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805068972193</id>
+      <title>25 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">226.06</s:price>
+      <s:sku>IMP-32052-B11</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805057536161</id>
+    <published>2021-06-21T11:12:48-04:00</published>
+    <updated>2021-06-21T11:12:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-diced-crystallized-ginger-cane-sugar-coated"/>
+    <title>Organic Diced Crystallized Ginger (Cane Sugar Coated)</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-diced-crystallized-ginger-cane-sugar-coated-pile.png?v=1624225409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            161.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic diced crystallized ginger makes a perfect snack and can be added to yogurt, salads, granola bars and baked goods for some chewy goodness. These cubes are 16-18 mm in size.</p>
+<p> </p>
+<p><strong>What is crystallized ginger?</strong></p>
+<ul>
+<li>Crystallized ginger starts with fresh ginger root which has been peeled, cut up, boiled, cooked in a thick simple syrup and then allowed to dry. The result is a crackly glaze with a soft and chewy center. A sprinkle of coarse sugar gives the ginger its crystalline finish for a sweet and tangy treat.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_China</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805057536161</id>
+      <title>10 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">161.80</s:price>
+      <s:sku>IMP-30016-B10</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805055701153</id>
+    <published>2021-06-21T11:12:48-04:00</published>
+    <updated>2021-06-21T11:12:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-coconut-date-rolls"/>
+    <title>Organic Coconut Date Rolls</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-coconut-date-rolls-pile.png?v=1624225411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            163.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic coconut date rolls are made of blended dates that are then rolled in freeze-dried shredded coconut without the addition of oil, fat, salt, or sugar. Soft, sweet, velvety date paste logs are paired with floral, nutty, crisp shredded coconut; ideal for snacking, party favors, or as part of a dessert table.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805055701153</id>
+      <title>18 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">163.60</s:price>
+      <s:sku>IMP-35035-B8</s:sku>
+      <s:grams>8200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805053702305</id>
+    <published>2021-06-21T11:12:47-04:00</published>
+    <updated>2021-06-21T11:12:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-puffed-quinoa-70"/>
+    <title>Organic Chocolate Covered Puffed Quinoa 70%</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-puffed-quinoa-70-pile.png?v=1624225412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            160.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic chocolate puffed quinoa is made with organic popped quinoa covered in organic 70% dark chocolate. The pairing of nutty quinoa and decadent, rich 70% dark chocolate is simply irresistible. These tiny, bite-sized chocolate pops are delicious to snack on or bake with.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Peru</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805053702305</id>
+      <title>15 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">160.92</s:price>
+      <s:sku>IMP-34048-B6</s:sku>
+      <s:grams>6900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805049475233</id>
+    <published>2021-06-21T11:12:47-04:00</published>
+    <updated>2021-06-21T11:12:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-pistachios-with-toffee-milk-chocolate"/>
+    <title>Organic Chocolate Covered Pistachios with Toffee (Milk Chocolate)</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-pistachios-with-toffee-milk-chocolate-pile.png?v=1624225414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            235.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic milk chocolate covered pistachios with toffee are shelled, individual nuts dipped in luscious layers of sweet toffee and milk chocolate. Earthy and creamy pistachios are paired with rich chocolate and caramel-like toffee flavors to create a crunchy, nutty bite.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805049475233</id>
+      <title>10 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">235.98</s:price>
+      <s:sku>IMP-34052-B4</s:sku>
+      <s:grams>4600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805046001825</id>
+    <published>2021-06-21T11:12:46-04:00</published>
+    <updated>2021-06-21T11:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-espresso-beans-70"/>
+    <title>Organic Chocolate Covered Espresso Beans 70%</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-espresso-beans-70-pile.png?v=1624225415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            157.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic dark chocolate covered espresso coffee beans are individual coffee beans dipped in lavish, rich dark chocolate. Strong, bright, and roasted beans are paired with decadent 70% cocoa, creating a classic and irresistible combination.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Peru</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805046001825</id>
+      <title>10 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">157.35</s:price>
+      <s:sku>IMP-34062-B4</s:sku>
+      <s:grams>4600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805044035745</id>
+    <published>2021-06-21T11:12:46-04:00</published>
+    <updated>2021-06-21T11:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-cocoa-nibs-70"/>
+    <title>Organic Chocolate Covered Cocoa Nibs 70%</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-cocoa-nibs-70-pile.png?v=1624225417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            74.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic dark chocolate covered cocoa nibs are whole cocoa nibs dipped in deep, rich, organic 70% dark chocolate.</p>
+<p> </p>
+<p><strong>What are cocoa nibs?</strong></p>
+<ul>
+<li>Cacao nibs are pieces of cocoa beans. To make nibs, the beans are first fermented and then dried before they’re roasted and cracked. What’s left after the beans have been cracked is a brittle shell, along with the nibs. The shell is removed through a process known as winnowing. The resulting nibs  can then be processed into chocolate.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Peru</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805044035745</id>
+      <title>5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">74.10</s:price>
+      <s:sku>IMP-34047-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805042561185</id>
+    <published>2021-06-21T11:12:45-04:00</published>
+    <updated>2021-06-21T11:12:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-salted-cashews-70"/>
+    <title>Organic Chocolate Covered Salted Cashews 70%</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-salted-cashews-70.png?v=1624225418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            225.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic dark chocolate covered salted cashews might just be the best combination of chocolate and cashews. Organic cashews are roasted with sea salt to bring out their nutty flavor and give them a maximum of crunchiness. Then they are draped in 70% organic dark chocolate for the ultimate combination.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805042561185</id>
+      <title>10 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">225.86</s:price>
+      <s:sku>IMP-34053-B4</s:sku>
+      <s:grams>4600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805041709217</id>
+    <published>2021-06-21T11:12:45-04:00</published>
+    <updated>2021-06-21T11:12:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-cashews-milk-chocolate"/>
+    <title>Organic Chocolate Covered Cashews (Milk Chocolate)</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-cashews-milk-chocolate-pile.png?v=1624225420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            215.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic milk chocolate covered cashews are individual nuts dipped in luscious, sweet milk chocolate. The nutty and crunchy texture of cashews meets silky and glazed milk chocolate, creating a unique and complimentary combination.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805041709217</id>
+      <title>10 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">215.24</s:price>
+      <s:sku>IMP-34051-B4</s:sku>
+      <s:grams>4600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6805040103585</id>
+    <published>2021-06-21T11:12:44-04:00</published>
+    <updated>2021-06-21T11:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-covered-almonds-70"/>
+    <title>Organic Chocolate Covered Almonds 70%</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-covered-almonds-70-pile.png?v=1624225422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            59.27 - 215.24
+            <a href="https://onlineorganics.ca/products/organic-chocolate-covered-almonds-70">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic 70% dark chocolate covered almonds are truly a godsend. It's a classical combination that just never gets old.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Category_Chocolate &amp; Cocoa</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805040103585</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">59.27</s:price>
+      <s:sku>IMP-34054-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6805040103585</id>
+      <title>10 lb Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">215.24</s:price>
+      <s:sku>IMP-34054-B4</s:sku>
+      <s:grams>4600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804997996705</id>
+    <published>2021-06-21T11:12:44-04:00</published>
+    <updated>2021-06-21T11:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-chocolate-bites-chia-quinoa-maca"/>
+    <title>Organic Chocolate Bites (Chia, Quinoa &amp; Maca) 60%</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-chocolate-bites-chia-quinoa-maca-pile.png?v=1624225423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            145.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic chia, quinoa &amp; maca chocolate bites are healthy snacks made of nutritious ingredients. With their convenient pocket size, they can be easily packed in lunch boxes or backpack. They can be used to make decadent desserts, or as a appetizing topping over granola or cereal.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Peru</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804997996705</id>
+      <title>6.5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">145.08</s:price>
+      <s:sku>IMP-34046-B6</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804314095777</id>
+    <published>2021-06-19T18:54:51-04:00</published>
+    <updated>2021-06-19T18:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-peppermints"/>
+    <title>Organic Peppermints</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-peppermints-pile.png?v=1624136023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            173.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic peppermints are a classic treat that has rumored have been invented in the 1780. Made in the Netherlands these are premium vegan organic candies with just 3 ingredients.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic dextrose, organic essential peppermint oil.</li>
+</ul>
+<p> </p>
+<p><strong>When were peppermints invented?</strong></p>
+<ul>
+<li>Altoids, the popular, and curiously strong mints were invented in 1780, long before Pep-O-Mint LifeSavers hit the scene in 1912, and peppermint Pez candies were created in 1927. So, you could go with Altoids as the originator of the peppermint candy, but we wouldn’t call that definitive by any means. Safe guess the next time you’re at trivia? Sure. Stone cold fact? Ehh.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Netherlands</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804314095777</id>
+      <title>8 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">173.68</s:price>
+      <s:sku>IMP-34311-B8</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804312621217</id>
+    <published>2021-06-19T18:54:50-04:00</published>
+    <updated>2021-06-19T18:54:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-veggie-wine-gums"/>
+    <title>Organic Veggie Wine Gums</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-veggie-wine-gums-pile.png?v=1624136025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            110.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic veggies wine gums are chewy and an overall great treat. Made in Germany these are premium vegan organic candies. For those wondering they do not contain actual alcohol...</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic cane sugar (unrefined), organic corn starch, organic wine 9,4%, organic fruit juice concentrates 3,5% (organic pineapple 0,61%, organic apple 0,61%, organic raspberry 0,61%, organic black currant 0,61%, organic lemon 0,53%, organic orange 0,53%), acidulant (citric acid), natural flavors, coloring fruit and plant extracts (alga, saflor, organic carrot, organic pumpkin, organic apple, organic elderberry), gelling agent (pectin), acidity regulator (sodium citrate), coating agent (organic carnauba wax).</li>
+</ul>
+<p> </p>
+<p><strong>Why are wine gums called this way?</strong></p>
+<ul>
+<li>The son of a London sweetshop owner, Charles Gordon Maynard wanted to create a sweet that could be savored like a fine wine. The "wine gum" plan nearly backfired because his father, Charles Riley Maynard was a strict Methodist teetotaler who threatened to expel him from the business for introducing wine to his products. But the "wine" label was merely a ruse. The only flavorings his wine gums contained were derived from fruit. Launched by Maynard’s in 1909, by 2002 they were selling more than £40 million a year.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804312621217</id>
+      <title>5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">110.50</s:price>
+      <s:sku>IMP-34303-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804302594209</id>
+    <published>2021-06-19T18:54:48-04:00</published>
+    <updated>2021-06-19T18:54:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gummy-fruity-jungle-mix"/>
+    <title>Organic Gummy Fruity Jungle Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gummy-fruity-jungle-mix-pile.png?v=1624136026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            66.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic gummy fruity jungle mix are chewy and shaped in jungle animals. Made in Germany these are premium gluten-free organic candies. The mix contains various flavors:  orange, apple, lemon and black currant.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic cane sugar (unrefined), organic pork gelatin, organic fruit juice concentrates 1,86% (organic lemon 0,6%, black organic currant 0,6%, organic orange 0,33%, organic apple 0,33%), acidulant (citric acid), coloring fruit and plant extracts (alga, safflower, organic pumpkin, organic apple, organic carrot, organic elderberry), natural flavors, coating agent (organic carnauba wax).</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804302594209</id>
+      <title>3 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">66.30</s:price>
+      <s:sku>IMP-34312-B3</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804300300449</id>
+    <published>2021-06-19T18:54:47-04:00</published>
+    <updated>2021-06-19T18:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-sour-gummy-fruit-mix"/>
+    <title>Organic Sour Gummy Fruit Mix</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-sour-gummy-fruit-mix-pile.png?v=1624136028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            27.63 - 110.50
+            <a href="https://onlineorganics.ca/products/organic-sour-gummy-fruit-mix">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic sour gummy fruit mix are chewy and an overall great treat. Made in Germany these are premium vegan and gluten-free organic candies.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic cane sugar (unrefined), organic corn starch, acidulant (citric acid, malic acid, lactic acid), organic fruit juice concentrate 1,59% (organic apple 0,88%, pear 0,15%, organic blueberry 0,15%, organic sea buckthorn 0,15%, organic cranberry 0,13%, organic raspberry 0,13%), acidity regulator (calcium citrate, sodium citrate), gelling agent (pectin), coloring fruit and plant extracts (organic pumpkin, organic apple, organic elderberry), natural flavor, organic caramel sugar syrup.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804300300449</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">27.63</s:price>
+      <s:sku>IMP-34313-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804300300449</id>
+      <title>5 kg (2 x 2.5 kg) Box (20% OFF)</title>
+      <s:price currency="CAD">110.50</s:price>
+      <s:sku>IMP-34313-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804298399905</id>
+    <published>2021-06-19T18:54:46-04:00</published>
+    <updated>2021-06-19T18:54:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gummy-fruit-fries"/>
+    <title>Organic Gummy Fruit Fries</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gummy-fruit-fries-pile.png?v=1624136030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            110.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic gummy fruit fries are chewy and sugar-coated for added crunchiness. Made in Germany these are premium organic candies.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic cane sugar (unrefined), organic pork gelatine, organic fruit juice concentrates 3,57% (organic apple 3,07%, organic orange 0,1%, organic morello cherry 0,1%, organic lemon 0,1%, organic pineapple 0,1%, organic grapefruit 0,1%), acidulant (malic acid, citric acid, lactic acid), acidity regulator (calcium citrate), colouring fruit and plant extracts (alga, safflower, organic carrot, organic pumpkin, organic apple, organic elderberry), natural flavour.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804298399905</id>
+      <title>5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">110.50</s:price>
+      <s:sku>IMP-34302-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804297547937</id>
+    <published>2021-06-19T18:54:46-04:00</published>
+    <updated>2021-06-19T18:54:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gummy-cola-bottles"/>
+    <title>Organic Gummy Cola Bottles</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gummy-cola-bottles-pile.png?v=1624136032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            110.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic gummy cola bottles are cola-flavored bottle-shaped treats and chewy in texture. Made in Germany these are premium organic candies.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic cane sugar (unrefined), organic pork gelatin, acidulant (citric acid), organic caramel sugar syrup, organic natural flavor type cola (organic lime oil, organic cinnamon bark oil), coating agent (organic carnauba wax).</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804297547937</id>
+      <title>5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">110.50</s:price>
+      <s:sku>IMP-34301-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804296368289</id>
+    <published>2021-06-19T18:54:45-04:00</published>
+    <updated>2021-06-19T18:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-sour-gummy-cherries"/>
+    <title>Organic Sour Gummy Cherries</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-sour-gummy-cherries-pile.png?v=1624136034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            183.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic sour gummy cherries are chewy and an overall great treat. Made in the Netherlands these are premium vegan organic candies.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic sugar, gelling agent (carrageenans), acid (citric acid, lactic acid), acidity regulator (sodium citrate), natural flavourings, colouring foods (concentrated of organic apple, organic blackcurrant, organic carrot, organic pumpkin and seaweed) Wheat starch (traces &lt; 20 ppm).</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Netherlands</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804296368289</id>
+      <title>8 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">183.44</s:price>
+      <s:sku>IMP-34306-B8</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804295188641</id>
+    <published>2021-06-19T18:54:45-04:00</published>
+    <updated>2021-06-19T18:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gummy-berries-low-sugar"/>
+    <title>Organic Gummy Berries (Low Sugar)</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gummy-berries-low-sugar-pile.png?v=1624136036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            56.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic low sugar gummy berries are chewy and an overall great treat with 30% less sugar. Made in Germany these are premium vegan and gluten-free organic candies. Made with a combination of real fruit juice concentrates from Aronia (Chokeberries), raspberries &amp; black currants.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic unrefined cane sugar, pectin (gelling agent), organic fruit juice concentrates 2,1% (organic raspberry 0,7%, aronia 0,7%, organic black currant 0,35%, organic bilberry 0,35%), citric acid, sodium citrate, natural flavors, coloring fruit and organic plant extract (organic elderberry), organic caramel sugar syrup, organic carnauba wax.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804295188641</id>
+      <title>2.5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">56.17</s:price>
+      <s:sku>IMP-34314-B2</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804293091489</id>
+    <published>2021-06-19T18:54:44-04:00</published>
+    <updated>2021-06-19T18:54:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gummy-bears-gelatin-free"/>
+    <title>Organic Gummy Bears</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gummy-bears-gelatin-free-pile.png?v=1624136037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            55.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic gummy bears are chewy and an overall great treat. Made in Germany these are premium vegan organic candies. Made with pure fruit concentrates, without the addition of any artificial flavors or colors.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic cane sugar (unrefined), gelling agent (pectin), organic fruit juice concentrates 3,7% (organic apple 0,9%, organic orange 0,77%, organic lemon 0,52%, organic black currant 0,51%, organic raspberry 0,5%, organic pineapple 0,5%), acidulant (citric acid), acidity regulator (sodium citrate), colouring fruit and plant extracts (alga, safflower, organic pumpkin, organic apple, organic carrot, organic elderberry), natural flavors, coating agent (organic carnauba wax).</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Germany</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804293091489</id>
+      <title>2.5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">55.25</s:price>
+      <s:sku>IMP-34300-B2</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6804291125409</id>
+    <published>2021-06-19T18:54:44-04:00</published>
+    <updated>2021-06-19T18:54:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-gummy-dummies-pacifier-shaped"/>
+    <title>Organic Gummy Dummies (Pacifier Shaped)</title>
+    <s:type>Candies &amp; Snacks</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-gummy-dummies-pacifier-shaped-pile.png?v=1624136039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Candies &amp; Snacks<br>
+        <strong>Price: </strong>
+            183.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic pacifier shaped gummy dummies are chewy and an overall great treat. Made in the Netherlands these are premium vegan organic candies.</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<ul>
+<li>Organic glucose syrup, organic sugar, gelling agent (carrageenans), acid (citric acid), acidity regulator (sodium citrate), natural flavourings, organic orange essential oil, organic lemon essential oil, natural lime flavouring with other natural flavourings, colouring food (concentrates of organic blackcurrant, organic carrot, organic apple, organic pumpkin and seaweed), organic sunflower oil, glazing agent (organic carnauba wax). Wheat starch (traces &lt; 20 ppm).</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Candies &amp; Snacks</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Netherlands</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6804291125409</id>
+      <title>8 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">183.44</s:price>
+      <s:sku>IMP-34305-B8</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

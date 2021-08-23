@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/flakes-puffed-grains.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-07-14T20:02:06-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835701022881</id>
+    <published>2021-07-14T20:02:06-04:00</published>
+    <updated>2021-07-14T20:02:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-oats-mix-granola"/>
+    <title>Organic Oats Mix &apos;&apos;Granola&apos;&apos;</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-oats-mix-granola-pile.png?v=1626298528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            111.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic oats mix "Granola" is a classic combination of oats and honey for yogurts &amp; oatmeal on the go. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This oats mix contains:</strong></p>
+<ul>
+<li>Organic oats</li>
+<li>Organic honey</li>
+<li>Organic rice flour</li>
+<li>Organic dried apples</li>
+<li>Organic cinnamon</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic oats mix "Granola" encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835701022881</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">111.21</s:price>
+      <s:sku>IMP-32018-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835701055649</id>
+    <published>2021-07-14T20:01:39-04:00</published>
+    <updated>2021-07-14T20:01:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-oats-mix-muesli"/>
+    <title>Organic Oats Mix &apos;&apos;Muesli&apos;&apos;</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-oats-mix-muesli-pile.png?v=1626298526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            111.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic oats mix "Muesli" is a perfect combination for yogurts &amp; oatmeal on the go. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This oats mix contains:</strong></p>
+<ul>
+<li>Organic oats</li>
+<li>Organic thompson raisins</li>
+<li>Organic flax seeds</li>
+<li>Organic sunflower seeds</li>
+<li>Organic diced apples</li>
+<li>Organic almonds</li>
+</ul>
+<img alt="OnlineOrganics Made in Canada" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg">
+<p>Locally made in Canada, buying our organic oats mix "Muesli" encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835701055649</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">111.21</s:price>
+      <s:sku>IMP-32021-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835701121185</id>
+    <published>2021-07-14T20:01:23-04:00</published>
+    <updated>2021-07-14T20:01:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-oats-mix-pumpkin-and-flax"/>
+    <title>Organic Oats Mix &apos;&apos;Pumpkin and Flax&apos;&apos;</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-oats-mix-pumpkin-and-flax-pile.png?v=1626298525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            98.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic oats mix "Pumpkin and Flax" is the perfect combination of oats and seeds for yogurts, cereals &amp; oatmeal on the go. Everything is organic!</p>
+<p> </p>
+<p><strong>This oats mix contains:</strong></p>
+<ul>
+<li>Organic oats</li>
+<li>Organic cane sugar</li>
+<li>Organic tapioca syrup</li>
+<li>Organic brown rice crisps</li>
+<li>Organic pumpkin seeds</li>
+<li>Organic brown rice flour</li>
+<li>Organic flax seeds</li>
+<li>Organic cinnamon</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic oats mix "Pumpkin and Flax" encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835701121185</id>
+      <title>10 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">98.10</s:price>
+      <s:sku>IMP-32023-B10</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835701252257</id>
+    <published>2021-07-14T20:01:05-04:00</published>
+    <updated>2021-07-14T20:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-puffed-sorghum"/>
+    <title>Organic Puffed Sorghum</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-puffed-sorghum-pile.png?v=1626298521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            112.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic puffed sorghum is a perfect light and low-calorie breakfast cereal. Be innovative and use it for baking and even making you own homemade chocolate dipped sorghum snacks.</p>
+<p> </p>
+<p><strong>What are puffed grains?</strong></p>
+<ul>
+<li>Puffed grains are made by pressurizing and then quickly de-pressurizing steamed grains. Puffed cereal is generally fat-free and contains only a small number of calories.</li>
+<li>Usually, the first step in making the cereal is steaming grains to moisturize their interiors. Next, specialized machinery is used to pressurize the grains, and then to quickly de-pressurize them. Due partly to the presence of moisture inside the grains, this rapid addition and removal of pressure causes the wheat to expand, or "puff" up, to several times its initial size.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835701252257</id>
+      <title>10 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">112.63</s:price>
+      <s:sku>IMP-31091-B4</s:sku>
+      <s:grams>4540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835701219489</id>
+    <published>2021-07-14T20:01:05-04:00</published>
+    <updated>2021-07-14T20:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-puffed-quinoa"/>
+    <title>Organic Puffed Quinoa</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-puffed-quinoa-pile.png?v=1626298522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            76.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic puffed quinoa is a perfect light and low-calorie breakfast cereal. Be innovative and use it for baking and even making you own homemade chocolate dipped quinoa snacks.</p>
+<p> </p>
+<p><strong>What are puffed grains?</strong></p>
+<ul>
+<li>Puffed grains are made by pressurizing and then quickly de-pressurizing steamed grains. Puffed cereal is generally fat-free and contains only a small number of calories.</li>
+<li>Usually, the first step in making the cereal is steaming grains to moisturize their interiors. Next, specialized machinery is used to pressurize the grains, and then to quickly de-pressurize them. Due partly to the presence of moisture inside the grains, this rapid addition and removal of pressure causes the wheat to expand, or "puff" up, to several times its initial size.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Bolivia</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835701219489</id>
+      <title>3 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">76.65</s:price>
+      <s:sku>IMP-31090-B3</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835701186721</id>
+    <published>2021-07-14T20:01:04-04:00</published>
+    <updated>2021-07-14T20:01:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-puffed-brown-rice"/>
+    <title>Organic Puffed Brown Rice</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-puffed-brown-rice-pile.png?v=1626298524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            103.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic puffed brown rice is a perfect light and low-calorie breakfast cereal. Be innovative and use it for baking and even making you own homemade chocolate dipped puffed brown rice snacks.</p>
+<p> </p>
+<p><strong>What are puffed grains?</strong></p>
+<ul>
+<li>Puffed grains are made by pressurizing and then quickly de-pressurizing steamed grains. Puffed cereal is generally fat-free and contains only a small number of calories.</li>
+<li>Usually, the first step in making the cereal is steaming grains to moisturize their interiors. Next, specialized machinery is used to pressurize the grains, and then to quickly de-pressurize them. Due partly to the presence of moisture inside the grains, this rapid addition and removal of pressure causes the wheat to expand, or "puff" up, to several times its initial size.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835701186721</id>
+      <title>10 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">103.23</s:price>
+      <s:sku>IMP-31093-B4</s:sku>
+      <s:grams>4540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835700990113</id>
+    <published>2021-07-14T20:01:03-04:00</published>
+    <updated>2021-07-14T20:01:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-oats-mix-chia-and-coconut"/>
+    <title>Organic Oats Mix &apos;&apos;Chia and Coconut&apos;&apos;</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-oats-mix-chia-and-coconut-pile.png?v=1626298529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            111.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic oats mix "Chia and Coconut" is the perfect combination of oats for yogurts, cereals &amp; oatmeal on the go. Everything is organic!</p>
+<p> </p>
+<p><strong>This oats mix contains:</strong></p>
+<ul>
+<li>Organic oats</li>
+<li>Organic tapioca syrup</li>
+<li>Organic coconut oil</li>
+<li>Organic cane sugar</li>
+<li>Organic brown rice crisps</li>
+<li>Organic brown rice flour</li>
+<li>Organic coconut flakes</li>
+<li>Organic chia seeds</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic oats mix "Chia and Coconut" encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835700990113</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">111.21</s:price>
+      <s:sku>IMP-32024-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6835700957345</id>
+    <published>2021-07-14T20:01:02-04:00</published>
+    <updated>2021-07-14T20:01:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-oats-mix-berry-infusion"/>
+    <title>Organic Oats Mix &apos;&apos;Berry Infusion&apos;&apos;</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-oats-mix-berry-infusion-pile.png?v=1626298531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            111.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic oats mix "Berry Infusion" is the perfect combination of oats and berries for yogurts &amp; oatmeal on the go. Everything is organic and there is no added salt, just pure goodness!</p>
+<p> </p>
+<p><strong>This oats mix contains:</strong></p>
+<ul>
+<li>Organic oats</li>
+<li>Organic honey</li>
+<li>Organic spelt flour</li>
+<li>Organic raisins</li>
+<li>Organic cranberries</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally made in Canada, buying our organic oats mix "Berry Infusion" encourages local businesses and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6835700957345</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">111.21</s:price>
+      <s:sku>IMP-32022-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011314110625</id>
+    <published>2021-01-13T11:33:25-05:00</published>
+    <updated>2021-01-13T11:33:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-kamut-khorasan-flakes"/>
+    <title>Organic Kamut (Khorasan) Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-kamut-khorasan-flakes-pile.png?v=1610555606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            71.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Kamut (Khorasan) flakes are a great source of protein, especially for those who live a meatless diet, Kamut is higher in protein than wheat.</p>
+<p>Kamut is an ancient Egyptian grain used for baking. It primarily consists of large kernels that can be ground into flour, processed into flakes or cooked in the same manner as rice or barley. Kamut can be substituted for oat flakes for breakfast or used in baked goods. It is low in fat, and cholesterol-free.</p>
+<p> </p>
+<p><strong>Did you know?</strong></p>
+<ul>
+<li>Kamut's real name is Khorasan wheat. Kamut is simply the most commercially popular brand of Khorasan wheat across the world. The brand became so popular that most people know Khorasan wheat as just Kamut.</li>
+</ul>
+<p> </p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada">
+<p>Locally grown in Canada, buying our organic Kamut (Khorasan) flakes encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011314110625</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">71.34</s:price>
+      <s:sku>IMP-31005-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342470305</id>
+    <published>2020-10-03T20:11:38-04:00</published>
+    <updated>2020-10-03T20:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-rolled-oat-flakes-gluten-free"/>
+    <title>Organic Rolled Oat Flakes (Gluten-Free)</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-rolled-oat-flakes-gluten-free-pile.jpg?v=1603291049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            74.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic rolled oats (Gluten-Free) are a gluten-free whole grain and a great source of important vitamins, minerals, fiber and antioxidants. You can make oat flour by grinding oats in a food processor or blender for all your gluten-free baking needs.</p>
+<p>Rolled oats are among the most nutrient-dense foods you can eat, making oatmeal a perfect breakfast to start your day.</p>
+<p> </p>
+<p><strong>What is the difference between your Rolled Oats Flakes, Rolled Oats Flakes (Gluten-Free), Oat Bran, Oat Groats, &amp; Steel Cut Oats?</strong></p>
+<ul>
+<li>To start all Oats are gluten-free. The difference between all the forms of oats that we sell and the Rolled Oats (Gluten-Free) is simple the extra level of precautions from cross-contamination. <span style="text-decoration: underline;">Unless you are extremely intolerant</span> to gluten you will never notice the difference. That is because although oats themselves don’t contain gluten, they’re often grown alongside other crops. The same equipment is typically used to harvest crops in neighboring fields, which leads a possibility of cross-contamination if one of those crops contains gluten.</li>
+<li>The difference between steel cut oats and rolled oats lies in the manufacturing process. Steel cut oats are created when a full oat groat is sliced into pieces with steel. In contrast, rolled oats are flattened using large disks. This causes the oat to become flaky and soft, allowing them to absorb more liquid.</li>
+<li>Oat groats are simply a whole oat grain just like steel cut oats and rolled oats. It is just not cut or rolled and is whole.</li>
+<li>Oat bran is a piece of an oat groat, and oat bran is the outer layer of this oat groat, which is right underneath the inedible grain shell. It is very fibrous and ideal to add fiber to your diet.</li>
+</ul>
+<p> </p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"><p>Locally grown in Canada, buying our organic rolled oats (Gluten-Free) encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342470305</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">74.63</s:price>
+      <s:sku>GEN-FG0865-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342339233</id>
+    <published>2020-10-03T20:11:36-04:00</published>
+    <updated>2020-10-03T20:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-barley-flakes"/>
+    <title>Organic Barley Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-barley-flakes-pile.jpg?v=1603291051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            51.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic barley flakes contain many important vitamins, minerals and antioxidants. What’s more, it’s a good source of beta-glucan, a fiber which may help lower cholesterol and blood sugar.</p>
+<p>Barley is a cereal grain that people can use in bread, beverages, stews, and other dishes. Barley provides fiber, vitamins, and minerals.</p>
+<p>Barley is the seed of a type of grass that grows in temperate climates throughout the world and one of the first grains to have been farmed by ancient civilizations. In fact, archeological evidence suggests that barley was grown in Egypt over 10,000 years ago.</p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"><p>Locally grown in Canada, buying our organic barley flakes encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342339233</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">51.80</s:price>
+      <s:sku>GEN-FG0400-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342240929</id>
+    <published>2020-10-03T20:11:35-04:00</published>
+    <updated>2020-10-03T20:11:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-rye-flakes"/>
+    <title>Organic Rye Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-rye-flakes-pile.jpg?v=1603291053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            51.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic rye flakes are a rich source of magnesium, a mineral that acts as a co-factor for more than 300 enzymes, including enzymes involved in the body's use of glucose and insulin secretion.</p>
+<p>Rye is a cereal grain that looks like wheat but is longer and more slender and varies in color from yellowish brown to grayish green. It is generally available in its whole or cracked grain form or as flour or flakes that look similar to old-fashioned oats.</p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"><p>Locally grown in Canada, buying our organic rye flakes encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342240929</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">51.80</s:price>
+      <s:sku>GEN-FG0600-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342142625</id>
+    <published>2020-10-03T20:11:33-04:00</published>
+    <updated>2020-10-03T20:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-spelt-flakes"/>
+    <title>Organic Spelt Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-spelt-flakes-pile.jpg?v=1603291054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            61.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic spelt flakes are an excellent source of carbohydrates and dietary fiber. It is particularly rich in iron, magnesium, phosphorous, zinc, and niacin (vitamin B-3). Spelt flakes, with its mild, nutty flavor, is a popular alternative to rolled oat flakes.</p>
+<p>Spelt is an ancient grain that is a subspecies of wheat. Spelt and wheat are similar in terms of appearance, but spelt has a stronger husk and slightly different nutritional content.</p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"><p>Locally grown in Canada, buying our organic spelt flakes encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342142625</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">61.57</s:price>
+      <s:sku>GEN-FG0700-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342077089</id>
+    <published>2020-10-03T20:11:31-04:00</published>
+    <updated>2020-10-03T20:11:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-wheat-flakes"/>
+    <title>Organic Wheat Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-wheat-flakes-pile.jpg?v=1603291056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            52.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic wheat flakes are a great option for people who have diabetes. This is because these flakes helps in maintaining blood sugar levels in the body. It also helps in lowering the risk of chronic conditions like Type II diabetes.</p>
+<p>Wheat flakes are made from whole wheat, which is much better as it contains more fiber than most breakfast cereals. This is because wheat flakes are loaded with natural wheat bran. If you are planning to change your breakfast cereal, wheat flakes come with a host of health benefits.</p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"><p>Locally grown in Canada, buying our organic wheat flakes encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342077089</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">52.02</s:price>
+      <s:sku>GEN-FG0150-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342011553</id>
+    <published>2020-10-03T20:11:30-04:00</published>
+    <updated>2020-10-03T20:11:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-quinoa-flakes"/>
+    <title>Organic Quinoa Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-quinoa-flakes-pile.jpg?v=1603291057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            85.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic quinoa flakes are a versatile ingredient for savory lunches and dinners; quinoa flakes shine when you want an easy but healthy breakfast high in protein but low in fat and calories.</p>
+<p>Similar to rolled oats, quinoa flakes are simply mechanically flattened grains of quinoa; while they do cost quite a bit more than oatmeal, they make a convenient breakfast suitable for all types of diets. Quinoa flakes provide all the health benefits of whole grain quinoa with a more familiar breakfast texture and a much quicker cooking time.</p>
+<p>Quinoa is gluten-free, high in protein and one of the few plant foods that contain sufficient amounts of all nine essential amino acids.</p>
+<p>It is also high in fiber, magnesium, B vitamins, iron, potassium, calcium, phosphorus, vitamin E and various beneficial antioxidants.</p>
+<p>Quinoa was an important crop for the Inca Empire. They referred to it as the "mother of all grains" and believed it to be sacred.</p>
+<p>It has been eaten for thousands of years in South America and only recently became a trend food, even reaching superfood status.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Bolivia</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342011553</id>
+      <title>10 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">85.80</s:price>
+      <s:sku>GEN-FG0257-B11</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749338472609</id>
+    <published>2020-10-03T20:09:52-04:00</published>
+    <updated>2020-10-03T20:09:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-toasted-coconut-flakes"/>
+    <title>Organic Toasted Coconut Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-toasted-coconut-flakes-pile.jpg?v=1603291210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            14.89 - 119.20
+            <a href="https://onlineorganics.ca/products/organic-toasted-coconut-flakes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic toasted coconut flakes are a great source of digestion-friendly and satiating fiber. They are also a dream ingredient for anyone who's following a low carb or Keto diet. Use them in granola, trail mixes, salads or just to munch on.</p>
+<p>Coconut meat is rich in several important minerals, especially manganese and copper. While manganese supports enzyme function and fat metabolism, copper assists bone formation and heart health.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30 Months</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Sri Lanka</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338472609</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">14.89</s:price>
+      <s:sku>GEN-NG1090-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338472609</id>
+      <title>10 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">119.20</s:price>
+      <s:sku>GEN-NG1090-B10</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749338276001</id>
+    <published>2020-10-03T20:09:46-04:00</published>
+    <updated>2020-10-03T20:09:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-rolled-oat-flakes"/>
+    <title>Organic Rolled Oat Flakes</title>
+    <s:type>Flakes</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-rolled-oat-flakes-pile.jpg?v=1603291261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Flakes<br>
+        <strong>Price: </strong>
+            5.36 - 48.73
+            <a href="https://onlineorganics.ca/products/organic-rolled-oat-flakes">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic rolled oats are a gluten-free whole grain and a great source of important vitamins, minerals, fiber and antioxidants. You can make oat flour by grinding oats in a food processor or blender for all your gluten-free baking needs.</p>
+<p>Rolled oats are among the most nutrient-dense foods you can eat, making oatmeal a perfect breakfast to start your day.</p>
+<p> </p>
+<p><strong>What is the difference between your Rolled Oats Flakes, Rolled Oats Flakes (Gluten-Free), Oat Bran, Oat Groats, &amp; Steel Cut Oats?</strong></p>
+<ul>
+<li>To start all Oats are gluten-free. The difference between all the forms of oats that we sell and the Rolled Oats (Gluten Free) is simple the extra level of precautions from cross-contamination. <span style="text-decoration: underline;">Unless you are extremely intolerant</span> to gluten you will never notice the difference. That is because although oats themselves don’t contain gluten, they’re often grown alongside other crops. The same equipment is typically used to harvest crops in neighboring fields, which leads a possibility of cross-contamination if one of those crops contains gluten. They are both classified as "gluten-free".</li>
+<li>The difference between steel cut oats and rolled oats lies in the manufacturing process. Steel cut oats are created when a full oat groat is sliced into pieces with steel. In contrast, rolled oats are flattened using large disks. This causes the oat to become flaky and soft, allowing them to absorb more liquid.</li>
+<li>Oat groats are simply a whole oat grain just like steel cut oats and rolled oats. It is just not cut or rolled and is whole.</li>
+<li>Oat bran is a piece of an oat groat, and oat bran is the outer layer of this oat groat, which is right underneath the inedible grain shell. It is very fibrous and ideal to add fiber to your diet.</li>
+</ul>
+<p> </p>
+<img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"><p>Locally grown in Canada, buying our organic rolled oats encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Flakes &amp; Puffed Grains</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338276001</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">5.36</s:price>
+      <s:sku>GEN-FG0855-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749338276001</id>
+      <title>25 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">48.73</s:price>
+      <s:sku>GEN-FG0855-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+  </entry>
+</feed>

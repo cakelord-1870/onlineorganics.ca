@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/oil.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-06-16T18:21:26-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6800306077857</id>
+    <published>2021-06-16T18:21:26-04:00</published>
+    <updated>2021-06-16T18:21:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-extra-virgin-olive-oil-1"/>
+    <title>Organic Extra Virgin Olive Oil (1L Glass Bottle)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>Olio Corvino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-extra-virgin-olive-oil-1-front.png?v=1623882094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio Corvino<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            15.69 - 150.60
+            <a href="https://onlineorganics.ca/products/organic-extra-virgin-olive-oil-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic extra virgin olive oil is rich in antioxidants, which help prevent cellular damage caused by molecules called free radicals.</p>
+<p>Extra virgin olive oil, is the highest quality of olive oil. Part of the Mediterranean diet, this traditional oil has been a dietary staple for some of the world's healthiest populations.</p>
+<p> </p>
+<p><strong>Who is Olio Corvino?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Antonio Corvino set up the company in 1958, working hard to then pass the baton to his son Nicola who still runs the company today.</li>
+<li>The soul of their work is packing oil produced by small farms in Alto Vastese, a hilly area that benefits from many olive trees, thanks to its height and proximity to the sea, factors that make the soil particularly suitable for cultivating the best olives. They select the oil, in order to ensure that only the best bears their trademark.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6800306077857</id>
+      <title>1 L Glass Bottle</title>
+      <s:price currency="CAD">15.69</s:price>
+      <s:sku>NIC-1LOIL-R</s:sku>
+      <s:grams>1370</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6800306077857</id>
+      <title>12 L (12 x 1 L) Box (20% OFF)</title>
+      <s:price currency="CAD">150.60</s:price>
+      <s:sku>NIC-1LOIL-B12</s:sku>
+      <s:grams>16440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011314077857</id>
+    <published>2021-01-13T11:33:21-05:00</published>
+    <updated>2021-01-13T11:33:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-sunflower-oil-high-oleic-rbd-16"/>
+    <title>Organic Sunflower Oil (High Oleic) (RBD) (16L Bucket)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-sunflower-oil-high-oleic-rbd-pile_235128e2-f082-4500-9130-834c2a927b58.jpg?v=1616329529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            135.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Sunflower Oil (High Oleic) (RBD) is high in vitamin E, an important antioxidant and key player for optimal immune function. One tablespoon of sunflower oil delivers 37% of the recommended daily intake for vitamin E.</p>
+<p>Some research suggests that a diet rich in monounsaturated fatty acids like oleic acid may help reduce high cholesterol levels and thus your risk of heart disease.</p>
+<p>High oleic sunflower oil can be used to stir-fry or sauté. It has a high smoke point (about 450°F), which makes it a good neutral oil for frying and other high-heat cooking methods, like stir-frying and sautéing.</p>
+<p> </p>
+<p><strong>What does High Oleic Mean?</strong></p>
+<ul>
+<li>High oleic sunflower oils is sunflower oil with a high amount (around 83%) of oleic fatty acid, otherwise known as omega-9 fatty acid. High Oleic sunflower oil is very desirable and linked to numerous health benefits. High oleic sunflower oil is also very stable during heating and as such is great choice for cooking.</li>
+</ul>
+<p> </p>
+<p><strong>What does "RBD" mean?</strong></p>
+<ul>
+<li>RBD is an acronym, which stands for Refined, Bleached and Deodorized.</li>
+<li>As the organic standard prescribes there is no use of chemical bleach or any other artificial chemical for that matter used during the process.</li>
+<li>"RBD" sunflower oil is dry steamed to deodorize while being carefully monitored to stay under 180 degrees Celsius. This neutralizes the majority of the strong taste and smell making ideal for cooking and frying. This is not does not make the product inferior in any way.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_USA</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011314077857</id>
+      <title>16L Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">135.84</s:price>
+      <s:sku>FAR-1006TBIO-B16</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011313815713</id>
+    <published>2021-01-13T11:33:16-05:00</published>
+    <updated>2021-01-13T11:33:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-extra-virgin-olive-oil-18"/>
+    <title>Organic Extra Virgin Olive Oil (18L Bucket)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-extra-virgin-olive-oil-pile_d9b1ae93-a9d6-4b60-a9ce-e6dc0bf14ee0.jpg?v=1610555600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            225.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic extra virgin olive oil is rich in antioxidants, which help prevent cellular damage caused by molecules called free radicals.</p>
+<p>Extra virgin olive oil, is the highest quality of olive oil. Part of the Mediterranean diet, this traditional oil has been a dietary staple for some of the world's healthiest populations.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30 Months</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Tunesia</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011313815713</id>
+      <title>18L Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">225.54</s:price>
+      <s:sku>FAR-BIO1041C-B18</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011313455265</id>
+    <published>2021-01-13T11:33:14-05:00</published>
+    <updated>2021-01-13T11:33:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-canola-oil-rbd-16"/>
+    <title>Organic Canola Oil (RBD)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-canola-oil-rbd-pile.png?v=1610555596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            121.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic canola oil (RBD) has the lowest saturated fat content of all common vegetable oils. Its light texture, taste and high smoke point make it a versatile choice for home and commercial kitchens.</p>
+<p> </p>
+<p><strong>What is Canola oil?</strong></p>
+<ul>
+<li>If you are looking for the canola seed, you won't find it. Canola is a contraction of Canada and ''o'' oil, ''l'' low, ''a'' acid. It was developed in Canada in the 1970's.</li>
+<li>Canola oil is made from rapeseed. It is believed that the oil was renamed as rapeseed oil doesn't sound very appealing.</li>
+<li>Rapeseed belongs to the mustard seed family. Its unfortunate name comes from the Latin word “rapum” which means turnip. Rapeseed oil was a common cooking oil in Europe and parts of Asia centuries before canola oil came around. However, scientists eventually discovered cooking unrefined rapeseed oil at high temperatures was a risk for lung cancer because of the chemicals it could give off. It also contains a pretty high percentage of erucic acid, which is linked to heart lesions in lab animals.</li>
+<li>That is where our canadian innovation arrives. Our scientists developed a new hybrid rapeseed crop as well as a new extraction method which solved the original rapeseed oil problems.</li>
+<li>Canola oil is now one of Canada's biggest agricultural exports and is linked to over 250,000 jobs.</li>
+<li>Organic Canola oil has all the advantages of a healthy organic, non-gmo product while encouraging Canadian farmers.</li>
+</ul>
+<p> </p>
+<p><strong>What does "RBD" mean?</strong></p>
+<ul>
+<li>RBD is an acronym, which stands for Refined, Bleached and Deodorized.</li>
+<li>As the organic standard prescribes there is no use of chemical bleach or any other artificial chemical for that matter used during the process.</li>
+<li>"RBD" organic canola oil is dry steamed to deodorize while being carefully monitored to stay under 180 degrees Celsius. This neutralizes the majority of the rapeseed taste and smell making ideal for cooking and frying. This is not does not make the product inferior in any way.</li>
+</ul>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"></p>
+<p>Locally grown in Canada, buying our organic canola oil encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011313455265</id>
+      <title>16L Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">121.60</s:price>
+      <s:sku>FAR-1006CBIO-B16</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342732449</id>
+    <published>2020-10-03T20:11:45-04:00</published>
+    <updated>2020-10-03T20:11:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-sunflower-oil-high-oleic-rbd"/>
+    <title>Organic Sunflower Oil (High Oleic) (RBD) (180 kg Drum)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-sunflower-oil-high-oleic-rbd-pile.jpg?v=1603291042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            1166.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Sunflower Oil (High Oleic) (RBD) is high in vitamin E, an important antioxidant and key player for optimal immune function. One tablespoon of sunflower oil delivers 37% of the recommended daily intake for vitamin E.</p>
+<p>Some research suggests that a diet rich in monounsaturated fatty acids like oleic acid may help reduce high cholesterol levels and thus your risk of heart disease.</p>
+<p>High oleic sunflower oil can be used to stir-fry or sauté. It has a high smoke point (about 450°F), which makes it a good neutral oil for frying and other high-heat cooking methods, like stir-frying and sautéing.</p>
+<p> </p>
+<p><strong>What does High Oleic Mean?</strong></p>
+<ul>
+<li>High oleic sunflower oils is sunflower oil with a high amount (around 83%) of oleic fatty acid, otherwise known as omega-9 fatty acid. High Oleic sunflower oil is very desirable and linked to numerous health benefits. High oleic sunflower oil is also very stable during heating and as such is great choice for cooking.</li>
+</ul>
+<p> </p>
+<p><strong>What does "RBD" mean?</strong></p>
+<ul>
+<li>RBD is an acronym, which stands for Refined, Bleached and Deodorized.</li>
+<li>As the organic standard prescribes there is no use of chemical bleach or any other artificial chemical for that matter used during the process.</li>
+<li>"RBD" sunflower oil is dry steamed to deodorize while being carefully monitored to stay under 180 degrees Celsius. This neutralizes the majority of the strong taste and smell making ideal for cooking and frying. This is not does not make the product inferior in any way.</li>
+</ul>
+<p> </p>
+<p><strong>We are fully aware that a 180 kg drum of sunflower oil is way too much oil for most people, even us. We are working on stocking this item to be sold in 1kg bottles by 2022. In the mean time we can only supply bulk.</strong></p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Netherlands</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342732449</id>
+      <title>180 kg Wholesale Drum (20% OFF)</title>
+      <s:price currency="CAD">1166.40</s:price>
+      <s:sku>GEN-HG1040-B180</s:sku>
+      <s:grams>180000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342699681</id>
+    <published>2020-10-03T20:11:43-04:00</published>
+    <updated>2020-10-03T20:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-extra-virgin-olive-oil"/>
+    <title>Organic Extra Virgin Olive Oil (220L Drum)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-extra-virgin-olive-oil-pile.jpg?v=1603291044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            1751.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic extra virgin olive oil is rich in antioxidants, which help prevent cellular damage caused by molecules called free radicals.</p>
+<p>Extra virgin olive oil, is the highest quality of olive oil. Part of the Mediterranean diet, this traditional oil has been a dietary staple for some of the world’s healthiest populations.</p>
+<p><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30 Months</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Tunesia</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342699681</id>
+      <title>220L Wholesale Barrel (20% OFF)</title>
+      <s:price currency="CAD">1751.20</s:price>
+      <s:sku>GEN-HG1102-B190</s:sku>
+      <s:grams>190500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749342601377</id>
+    <published>2020-10-03T20:11:41-04:00</published>
+    <updated>2020-10-03T20:11:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-coconut-oil-virgin"/>
+    <title>Organic Coconut Oil (Virgin)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-coconut-oil-virgin-pile.jpg?v=1603291046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            136.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic coconut oil (Virgin) contains a cornucopia of fatty acids and proteins that hold antioxidants and provide myriad health benefits. It's rich in so-called medium-chain fatty acids (MCFA's), which are, in great part, comprised of Caprylic acid, Lauric acid and Capric acid.</p>
+<p>Coconut oil is a dream ingredient for anyone who's following a low carb or Keto diet. Coconut oil is ideal for high temperature cooking as an alternative to cheap vegetable and canola oil.</p>
+<p>Coconut oil is good for the skin, especially in the treatment of wounds, burns, and dermatitis. It also acts as sunblock, and as a moisturizer for the skin, thanks to the two primary fatty acids in unrefined coconut oil, caprylic and lauric, and to its antioxidant component, which team up to reduce inflammation under the skin and promote better healing. It is also excellent to repair damaged and dry hair.</p>
+<p> </p>
+<p><strong>What is the difference between "RBD" and "Virgin" coconut oil?</strong></p>
+<ul>
+<li>RBD is an acronym, which stands for Refined, Bleached and Deodorized.</li>
+<li>As the organic standard prescribes there is no use of chemical bleach or any other artificial chemical for that matter used during the process.</li>
+<li>"RBD" coconut oil is dry steamed to deodorize while being carefully monitored to stay under 180 degrees Celsius. This neutralizes the majority of the coconut taste and smell making ideal for cooking and frying. This is not does not make the product inferior in any way.</li>
+<li>"Virgin" coconut oil goes through the same extraction process but is not dry steamed. This makes it a more natural and pure form of coconut oil. It has a strong coconut taste and smell to it.</li>
+<li>We stock only "RBD" for sale in individual kilogram bags. Most clients prefer this oil as it is much more versatile. "Virigin" coconut oil is always available in bulk should you want it.</li>
+</ul>
+<p> </p>
+<p><strong>What the difference between coconut oil, coconut butter, coconut cream and coconut milk?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Coconut oil is a fat made from pressed coconut meat. It contains about 99% fat and not much of anything else.</li>
+<li>Coconut butter (70% fat) is made with just shredded coconut that has been blended into a paste. Just like our other nut butters it only contains one ingredient.</li>
+<li>Coconut cream is made by simmering coconut meat in water, The water then separates into a creamy, thick layer and a thin, more watery layer. The thick layer is packaged as coconut cream (25.4-37.3% fat), and the thinner liquid is labeled as coconut milk (12.7-25.3% fat). It contains much of the nutrients found in coconut meat.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Philippines</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749342601377</id>
+      <title>18.4 kg Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">136.89</s:price>
+      <s:sku>GEN-HG1007-B18</s:sku>
+      <s:grams>18400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749336440993</id>
+    <published>2020-10-03T20:09:13-04:00</published>
+    <updated>2020-10-03T20:09:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-coconut-oil-rbd"/>
+    <title>Organic Coconut Oil (RBD)</title>
+    <s:type>Oils</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-coconut-oil-rbd-pile.jpg?v=1603396238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Oils<br>
+        <strong>Price: </strong>
+            8.47 - 124.75
+            <a href="https://onlineorganics.ca/products/organic-coconut-oil-rbd">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic coconut oil (RBD) contains a cornucopia of fatty acids and proteins that hold antioxidants and provide myriad health benefits. It's rich in so-called medium-chain fatty acids (MCFA's), which are, in great part, comprised of Caprylic acid, Lauric acid and Capric acid.</p>
+<p>Coconut oil is a dream ingredient for anyone who's following a low carb or Keto diet. Coconut oil is ideal for high temperature cooking as an alternative to cheap vegetable and canola oil.</p>
+<p>Coconut oil is good for the skin, especially in the treatment of wounds, burns, and dermatitis. It also acts as sunblock, and as a moisturizer for the skin, thanks to the two primary fatty acids in unrefined coconut oil, caprylic and lauric, and to its antioxidant component, which team up to reduce inflammation under the skin and promote better healing. It is also excellent to repair damaged and dry hair.</p>
+<p> </p>
+<p><strong>What is the difference between "RBD" and "Virgin" coconut oil?</strong></p>
+<ul>
+<li>RBD is an acronym, which stands for Refined, Bleached and Deodorized.</li>
+<li>As the organic standard prescribes there is no use of chemical bleach or any other artificial chemical for that matter used during the process.</li>
+<li>"RBD" coconut oil is dry steamed to deodorize while being carefully monitored to stay under 180 degrees Celsius. This neutralizes the majority of the coconut taste and smell making ideal for cooking and frying. This is not does not make the product inferior in any way.</li>
+<li>"Virgin" coconut oil goes through the same extraction process but is not dry steamed. This makes it a more natural and pure form of coconut oil. It has a strong coconut taste and smell to it.</li>
+<li>We stock only "RBD" for sale in individual kilogram bags. Most clients prefer this oil as it is much more versatile. "Virgin" coconut oil is always available in bulk should you want it.</li>
+</ul>
+<p> </p>
+<p><strong>What the difference between coconut oil, coconut butter, coconut cream and coconut milk?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Coconut oil is a fat made from pressed coconut meat. It contains about 99% fat and not much of anything else.</li>
+<li>Coconut butter (70% fat) is made with just shredded coconut that has been blended into a paste. Just like our other nut butters it only contains one ingredient.</li>
+<li>Coconut cream is made by simmering coconut meat in water, The water then separates into a creamy, thick layer and a thin, more watery layer. The thick layer is packaged as coconut cream (25.4-37.3% fat), and the thinner liquid is labeled as coconut milk (12.7-25.3% fat). It contains much of the nutrients found in coconut meat.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Oils</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Netherlands</s:tag>
+    <s:tag>Country_Philippines</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749336440993</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">8.47</s:price>
+      <s:sku>GEN-HG1002-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749336440993</id>
+      <title>18.4 kg Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">124.75</s:price>
+      <s:sku>GEN-HG1002-B18</s:sku>
+      <s:grams>18400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

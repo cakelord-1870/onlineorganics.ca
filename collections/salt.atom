@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/salt.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-07-25T12:25:52-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872562849</id>
+    <published>2021-07-25T12:25:52-04:00</published>
+    <updated>2021-07-25T12:25:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/fine-mediterranean-sea-salt-fleur-de-sel"/>
+    <title>Mediterranean &quot;Fleur de Sel&quot;</title>
+    <s:type>Salt</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/fine-mediterranean-sea-salt-fleur-de-sel-pile_3a7ce70d-26de-4c5c-ba60-36df2f040d0d.png?v=1627213668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Salt<br>
+        <strong>Price: </strong>
+            121.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Spanish Mediterranean "Fleur de sel" has a high moisture content and retains a certain briny flavor from the sea. It's a delicate, almost flaky salt. Additionally, this moisture content encourages the salt crystals to stick together on your tongue, causing the flavor to be perceived more intensely. That's another reason a little bit goes a long way. But it's not necessarily more salty than any other sea salt.</p>
+<p>It has a coarse yet light texture as it forms in flakes rather than grains like all other salts.</p>
+<p> </p>
+<p><strong>What is "Fleur de sel"?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Also called "Flower of salt" or "flor de sal" it is produced by a complicated process. It involves collecting the thin layer of salt that rises to the surface of shallow pools of seawater along the coast of the Mediterranean sea and Atlantic ocean.</li>
+<li>Because it forms naturally under certain very limited weather conditions, and because it must be skimmed off by hand using special sieves, fleur de sel is, by any estimation, an extremely expensive product.</li>
+<li>This makes sense if you think about how fleur de sel differs from ordinary sea salt. Ordinary sea salt is made by evaporating seawater and then collecting the remaining salt into mounds.</li>
+<li>This high cost means that it shouldn't be used as an ordinary seasoning. Instead, think of it as almost a garnish or condiment. A few crystals of fleur de sel sprinkled over a dish add a burst of flavor, visual appeal, and even texture. A little bit truly goes a long way.</li>
+<li>Once you've procured a stash of fleur de sel, you will want to use it carefully. For one thing, it is very delicate and will quickly dissolve, so it really should be added to a dish immediately before serving. You'll still taste it after it dissolves, but you won't see it or feel its distinctive texture.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 65% humidity.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Salt</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Paleo</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Spain</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:tag>Indefinite</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872562849</id>
+      <title>5 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">121.45</s:price>
+      <s:sku>IMP-20160-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872530081</id>
+    <published>2021-07-25T12:25:51-04:00</published>
+    <updated>2021-07-25T12:25:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/fine-mediterranean-sea-salt"/>
+    <title>Mediterranean Sea Salt (Fine)</title>
+    <s:type>Salt</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/fine-mediterranean-sea-salt-pile_a09fd23f-8d00-4acf-bf95-6383fb8e57c5.png?v=1627213670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Salt<br>
+        <strong>Price: </strong>
+            85.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fine Mediterranean sea salt is produced by evaporating sea water from the Spanish Mediterranean coast which conserves the trace elements found in sea water such as potassium, iron, and calcium.</p>
+<p>Much less processed than table salt which is mined from underground salt deposits and heavily refined. Table salt also has iodide and anti-clumping chemicals added.</p>
+<p>While salt remains salt no matter from where it comes from, the benefits of the multitudes of trace elements found in dead sea water and natural evaporation are a much better choice than heavy refined iodized table salt.</p>
+<p>Our Mediterranean sea salt has absolutely no additives added.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 65% humidity.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Salt</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Paleo</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Spain</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:tag>Indefinite</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872530081</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">85.75</s:price>
+      <s:sku>IMP-20158-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872497313</id>
+    <published>2021-07-25T12:25:51-04:00</published>
+    <updated>2021-07-25T12:25:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/pink-himalayan-salt-fine"/>
+    <title>Pink Himalayan Salt (Fine)</title>
+    <s:type>Salt</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/pink-himalayan-salt-fine-pile.png?v=1627172044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Salt<br>
+        <strong>Price: </strong>
+            36.50 - 97.45
+            <a href="https://onlineorganics.ca/products/pink-himalayan-salt-fine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fine Himalayan pink salt has no additives whatsoever and while being about 98% sodium chloride it also contains up to 84 trace minerals. Use it to add color to dish toppings and as great presentation piece on your table.</p>
+<p>Some claim it has a lower sodium content than other salts but this is actually not true. Its simply the grain size that makes the difference. Larger salt grains leave more air gaps in between them so if you're comparing one table spoon of coarse Himalayan salt to fine table salt there will be a big difference. On the other side if you're comparing one table spoon of fine Himalayan salt to fine table salt there will be no difference.</p>
+<p> </p>
+<p><strong>What is Himalayan Salt?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Himalayan pink salt is a pink-hued variety of rock salt (halite) that is sourced near the Himalaya mountains of Pakistan.</li>
+<li>The salt is mostly mined at the Khewra Salt Mine in Khewra, Jhelum District, Punjab, Pakistan, which is situated in the foothills of the Salt Range hill system in the Punjab province of the Pakistan Indo-Gangetic Plain. Founded in 1872, it is one of the oldest salt mines in the world. Though mined like rock salt, Himalayan pink salt is technically a sea salt.</li>
+<li>The trace minerals (mainly iron oxide) in Himalayan pink salt give the salt its pink tinge, which can range from a subtle pink color to a much more varied, vibrant pink. Finely ground pink salt appears lighter in its pinkish color than the coarse version.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 65% humidity.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Salt</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Paleo</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:tag>Indefinite</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872497313</id>
+      <title>10 lb Wholesale Bag (10% OFF)</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku>IMP-20154-B4</s:sku>
+      <s:grams>4540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872497313</id>
+      <title>30 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">97.45</s:price>
+      <s:sku>IMP-20154-B13</s:sku>
+      <s:grams>13630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6880872464545</id>
+    <published>2021-07-25T12:25:50-04:00</published>
+    <updated>2021-07-25T12:25:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/pink-himalayan-salt-coarse"/>
+    <title>Pink Himalayan Salt (Coarse)</title>
+    <s:type>Salt</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/pink-himalayan-salt-coarse-pile.png?v=1627172046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Salt<br>
+        <strong>Price: </strong>
+            36.50 - 97.45
+            <a href="https://onlineorganics.ca/products/pink-himalayan-salt-coarse">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our coarse Himalayan pink salt has no additives whatsoever and while being about 98% sodium chloride it also contains up to 84 trace minerals. Use it to add color to dish toppings and as great presentation piece on your table.</p>
+<p>Some claim it has a lower sodium content than other salts but this is actually not true. Its simply the grain size that makes the difference. Larger salt grains leave more air gaps in between them so if you're comparing one table spoon of coarse Himalayan salt to fine table salt there will be a big difference. On the other side if you're comparing one table spoon of fine Himalayan salt to fine table salt there will be no difference.</p>
+<p> </p>
+<p><strong>What is Himalayan Salt?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Himalayan pink salt is a pink-hued variety of rock salt (halite) that is sourced near the Himalaya mountains of Pakistan.</li>
+<li>The salt is mostly mined at the Khewra Salt Mine in Khewra, Jhelum District, Punjab, Pakistan, which is situated in the foothills of the Salt Range hill system in the Punjab province of the Pakistan Indo-Gangetic Plain. Founded in 1872, it is one of the oldest salt mines in the world. Though mined like rock salt, Himalayan pink salt is technically a sea salt.</li>
+<li>The trace minerals (mainly iron oxide) in Himalayan pink salt give the salt its pink tinge, which can range from a subtle pink color to a much more varied, vibrant pink. Finely ground pink salt appears lighter in its pinkish color than the coarse version.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 65% humidity.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Salt</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Paleo</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Pakistan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:tag>Indefinite</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872464545</id>
+      <title>10 lb Wholesale Bag (10% OFF)</title>
+      <s:price currency="CAD">36.50</s:price>
+      <s:sku>IMP-20155-B4</s:sku>
+      <s:grams>4540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6880872464545</id>
+      <title>30 lb Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">97.45</s:price>
+      <s:sku>IMP-20155-B13</s:sku>
+      <s:grams>13630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749335490721</id>
+    <published>2020-10-03T20:08:55-04:00</published>
+    <updated>2020-10-03T20:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/fine-sea-salt"/>
+    <title>Dead Sea Salt (Fine)</title>
+    <s:type>Salt</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/fine-sea-salt-pile.png?v=1627172224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Salt<br>
+        <strong>Price: </strong>
+            3.59 - 71.75
+            <a href="https://onlineorganics.ca/products/fine-sea-salt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fine dead sea salt is produced by evaporating sea water from the dead sea which conserves the trace elements found in sea water such as potassium, iron, and calcium.</p>
+<p>Much less processed than table salt which is mined from underground salt deposits and heavily refined. Table salt also has iodide and anti-clumping chemicals added.</p>
+<p>While salt remains salt no matter from where it comes from, the benefits of the multitudes of trace elements found in dead sea water and natural evaporation are a much better choice than heavy refined iodized table salt.</p>
+<p>Our dead sea salt has absolutely no additives added and has been naturally evaporated using sunlight in Israel.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Store below 65% humidity.</li>
+<li>Mason jars make great storage containers.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Salt</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Paleo</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Israel</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:tag>Indefinite</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749335490721</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>GEN-EG1900-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749335490721</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">71.75</s:price>
+      <s:sku>GEN-EG1900-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

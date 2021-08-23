@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlineorganics.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlineorganics.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlineorganics.ca/collections/others.atom"/>
+  <title>OnlineOrganics</title>
+  <updated>2021-07-19T11:50:58-04:00</updated>
+  <author>
+    <name>OnlineOrganics</name>
+  </author>
+  <entry>
+    <id>https://onlineorganics.ca/products/6864848355489</id>
+    <published>2021-07-19T11:50:58-04:00</published>
+    <updated>2021-07-19T11:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-tahini"/>
+    <title>Organic Tahini</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-tahini-pile.png?v=1626549861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            108.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic tahini is the perfect base ingredient for all your middle-eastern meals. Our organic tahini has only one ingredient, organic sesame seeds. No added oil or salt to dilute the pure taste!</p>
+<p>The plant-based condiment is full of nutrients like copper, iron, magnesium, and zinc. Tahini is also a great source of protein and fiber. It’s low in sodium and saturated fat. Tahini is dairy free, gluten free, and is a great alternative to nut butters.</p>
+<p> </p>
+<p><strong>What is tahini?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Tahini is simply a paste made from ground sesame seeds. It can be mixed with other ingredients like garlic and olive oil to make savory sauces, or even added to sweet dishes to balance flavor and add nutrients.</li>
+<li>Tahini has a savory, bitter, and nutty flavor profile.</li>
+</ul>
+<p> </p>
+<p><strong>What are the top 6 uses for tahini?</strong></p>
+<ol>
+<li>Hummus: Add tahini to blended chickpeas, lemon juice, garlic, and cumin to make hummus.</li>
+<li>Tahini sauce: Tahini is paired with Greek yogurt, garlic, parsley, cilantro, and lemon juice to make tahini sauce. A perfect addition to gyros.</li>
+<li>Salad dressing: Combine tahini with extra virgin olive oil, apple cider vinegar, and lemon for wonderful salad dressing.</li>
+<li>Halvah: This is a popular Israeli and Turkish confection. It is made with honey, pistachios, and, of course, tahini.</li>
+<li>Brownies: Swirl tahini into brownie batter for an added boost of nutrients.</li>
+<li>Ice-cream: Tahini-flavored soft serve and sesame ice cream are popular in different cuisines across the world. Tahini can add a nutty flavor to dairy-based ice cream, or be a creamy substitute for vegan recipes.</li>
+</ol>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6864848355489</id>
+      <title>10 kg Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">108.20</s:price>
+      <s:sku>IMP-36105-B10</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6864848289953</id>
+    <published>2021-07-19T11:50:58-04:00</published>
+    <updated>2021-07-19T11:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-cinnamon-sticks-cassia"/>
+    <title>Organic Cinnamon Sticks (Cassia)</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-cinnamon-sticks-cassia-pile.png?v=1626549862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic cinnamon sticks are the whole form of the warm, fragrant spice favored in many fall and winter baked goods. Cassia cinnamon is the most commonly used cinnamon in the world. Cinnamon sticks can be easily grated and added to everyday meals for a fresher flavor. They can also be used whole to stir around in warm drinks like apple cider or hot cocoa.</p>
+<p>Cinnamon is loaded with powerful antioxidants, such as polyphenols. In a study that compared the antioxidant activity of 26 spices, cinnamon wound up as the clear winner, even outranking "superfoods" like garlic and oregano. In fact, it is so powerful that cinnamon can be used as a natural food preservative.</p>
+<p> </p>
+<p><strong>What are cinnamon sticks?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Cinnamon is made by cutting the stems of cinnamon trees scientifically known as Cinnamomum. The inner bark is then extracted and the woody parts removed.</li>
+<li>When it dries, it forms strips that curl into rolls, called cinnamon sticks. These sticks can be ground to make cinnamon powder.</li>
+<li>The distinct smell and flavor of cinnamon are due to the oily part, which is very high in the compound cinnamaldehyde</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_India</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6864848289953</id>
+      <title>5 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>IMP-33090-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6040186093729</id>
+    <published>2021-01-27T16:14:42-05:00</published>
+    <updated>2021-01-27T16:14:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-sant-eustachio-coffee-beans"/>
+    <title>Organic Sant&apos; Eustachio Premium Wood Roasted Italian Coffee Beans</title>
+    <s:type>Others</s:type>
+    <s:vendor>Sant’ Eustachio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-sant-eustachio-coffee-beans-pile.png?v=1611782102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sant’ Eustachio<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            11.78 - 189.18
+            <a href="https://onlineorganics.ca/products/organic-sant-eustachio-coffee-beans">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Sant' Eustachio premium wood roasted Italian coffee beans are like no other. Since 1938, Sant’ Eustachio Il Caffè has been carrying on the tradition, always having one priority: quality. Thanks to the use of Sant’Eustachio blend, made with the best Arabica beans, and the special preparation of its Gran Caffè, Sant’Eustachio coffee shop is a daily appointment for the gourmets of this delightful black drink.</p>
+<p>While sipping a cup at their location at Piazza Sant'Eustachio in Rome is an experience like no other, this is as good as it gets in Canada.</p>
+<p><em>Notice: Our Sant’Eustachio Il Caffè is sold as organic as it is made with organic coffee beans. However it holds no official organic certification.</em></p>
+<p> </p>
+<p><strong>What is Sant’Eustachio?</strong></p>
+<ul style="list-style-type: disc;">
+<li>Sant 'Eustachio Il Caffè is an old wood-burning roasting company founded in 1938, from a place that already existed in 1800 with the name of “Caffè e Latte” in Piazza Sant'Eustachio, a stone's throw from Piazza Navona and the Pantheon.</li>
+<li>For the time, the room, built in masonry and with ergonomic shapes, was very innovative: the absence of wooden furniture and the use of white made it extremely modern. The beautiful building in which it is located is Palazzo Cenci Maccarani, designed in 1500 by the famous architect Giulio Romano, known for Palazzo Tè in Mantua.</li>
+<li>Since 1999 the restaurant is owned by the Ricci brothers, who keep the tradition intact with the first goal of always serving a quality product, using organic and fair trade coffee, coming from slow food principals, for a fine blend of 100% Arabica coffee. imported directly from South America.</li>
+</ul>
+<p> </p>
+<p><strong>Where does the logo come from?</strong></p>
+<ul style="list-style-type: disc;">
+<li>According to legend, General Placido lived in Rome during the empire of Trajan. One day, while he was hunting in the woods, he saw a deer and a luminous cross appeared between its horns.</li>
+<li>The event understandably shocked the young man, who decided to convert to Christianity and change his name to Eustachio (from the Greek ευ “good” and σταχιυς “ear”: that gives a good harvest).</li>
+<li>Later the emperor sentenced the young man and his family to death: the sentence involved the killing in the Colosseum by the lions who, according to legend, stopped in front of them and saved them. Inspired by the myth, the poet Gabriele D'Annunzio wrote of his desire for conversion: “I too, like the deer, carry the arrow stuck in my side”.</li>
+<li>Sant'Eustachio is venerated in a particular way in the city of Matera of which he is the patron saint. The Nameday is celebrated on September 20th.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Italy</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6040186093729</id>
+      <title>250 g Metal Can</title>
+      <s:price currency="CAD">11.78</s:price>
+      <s:sku>NIC-CAFE-S-R</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6040186093729</id>
+      <title>1 kg Bag</title>
+      <s:price currency="CAD">39.41</s:price>
+      <s:sku>NIC-CAFE-B-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6040186093729</id>
+      <title>4 kg Box (16 x 250g Cans)</title>
+      <s:price currency="CAD">150.80</s:price>
+      <s:sku>NIC-CAFE-S-B4</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6040186093729</id>
+      <title>6 kg (6 x 1kg Bags)</title>
+      <s:price currency="CAD">189.18</s:price>
+      <s:sku>NIC-CAFE-B-B6</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011315454113</id>
+    <published>2021-01-13T11:34:06-05:00</published>
+    <updated>2021-01-13T11:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-instaferm-green-03-dry-yeast"/>
+    <title>Organic Instaferm Green #03 Dry Yeast</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-instaferm-green-03-dry-yeast-pile.png?v=1610555649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            539.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Instaferm (Green #03) active dry yeast by Lallemand is grown carefully on the complex plant derived media by a natural fermentation process. After the fermentation a liquid called yeast cream is obtained that is the raw material for all yeast products. In english that means that the production of organic yeast uses a completely different technique than conventional yeast. The ''Green #03'' simply refers to the product number at Lallemand.</p>
+<p>Producing organic yeast is better for the environment. It’s that simple. Conventional yeast production, on the other hand, uses harsh acids, bases (like lye, also known as sodium hydroxide), synthetic vitamins, ammonia and ammonium salts, and anti-foaming agents. With certified organic yeast production, all the raw materials used are 100% organic, benefiting the entire organic supply chain. Going with organic yeast is better for the planet and a healthier choice for the consumer.</p>
+<p> </p>
+<p><strong>What is yeast?</strong></p>
+<ul>
+<li>Yeast is a unicellular microorganism that has been used in production of various food and drinks for thousands of years. Today yeast is produced industrially for bakers, wine makers and many other applications. Yeast has specific nutrient requirements for growth. It needs a source of sugar and nitrogen as well as vitamins, minerals and trace elements.</li>
+<li>Simply it is a organism that eats starches and sugars in the flour, turning them into alcohol and carbon dioxide gas. This gas inflates the network of air bubbles, causing the dough to rise. During rising, the yeast divides and multiplies, producing more carbon dioxide. As long as there is ample air and food (carbohydrates) in the dough, the yeast will multiply until its activity is stopped by the oven’s heat.</li>
+</ul>
+<p> </p>
+<p><strong>Did you know?</strong></p>
+<ul>
+<li>Most organic store bought and even bakery breads are made with conventional yeast</li>
+<li>For a long time, yeast was classified as a ''non-agricultural food substance'' on the ''National List of Allowed and Prohibited Substances'' because no company was making organic yeast as its production method is very different. It is still classified like this today but pressure is being put to change its classification to force commercial bakeries to use organic yeast in order to sell their products as organic.</li>
+<li>While there is a huge price difference between convetional and organic yeast, more and more bakeries are making the switch despite the cost. Consumer awareness and education are pushing bakeries to keep offering better quality products.</li>
+</ul>
+<p><img alt="OnlineOrganics Made in Canada" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg"></p>
+<p>Locally made in Canada, buying our Instaferm yeast encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011315454113</id>
+      <title>10 kg Wholesale Box (20% OFF)</title>
+      <s:price currency="CAD">539.30</s:price>
+      <s:sku>FAR-BIO1061-B10</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011315257505</id>
+    <published>2021-01-13T11:34:00-05:00</published>
+    <updated>2021-01-13T11:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/conventional-instaferm-red-01-dry-yeast"/>
+    <title>Instaferm Red #01 Dry Yeast</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/non-organic-instaferm-red-01-dry-yeast-pile.png?v=1610555645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            5.05 - 80.82
+            <a href="https://onlineorganics.ca/products/conventional-instaferm-red-01-dry-yeast">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our conventional Instaferm (Red #01) active dry yeast by Lallemand is the industry standard for yeast. Conveniently packaged in 450 gram vacuum packed bricks this yeast is ''all-purpose'' and works with 0-8% sugar dough. The ''Red #01'' simply refers to the product number at Lallemand.</p>
+<p><strong>This yeast is not organic, this is the only non-organic product we sell.</strong></p>
+<p> </p>
+<p><strong>What is yeast?</strong></p>
+<ul>
+<li>Yeast is a unicellular microorganism that has been used in production of various food and drinks for thousands of years. Today yeast is produced industrially for bakers, wine makers and many other applications. Yeast has specific nutrient requirements for growth. It needs a source of sugar and nitrogen as well as vitamins, minerals and trace elements.</li>
+<li>Simply it is a organism that eats starches and sugars in the flour, turning them into alcohol and carbon dioxide gas. This gas inflates the network of air bubbles, causing the dough to rise. During rising, the yeast divides and multiplies, producing more carbon dioxide. As long as there is ample air and food (carbohydrates) in the dough, the yeast will multiply until its activity is stopped by the oven’s heat.</li>
+</ul>
+<p> </p>
+<p><strong>Did you know?</strong></p>
+<ul>
+<li>Most organic store bought and even bakery breads are made with conventional yeast</li>
+<li>For a long time, yeast was classified as a ''non-agricultural food substance'' on the ''National List of Allowed and Prohibited Substances'' because no company was making organic yeast as its production method is very different. It is still classified like this today but pressure is being put to change its classification to force commercial bakeries to use organic yeast in order to sell their products as organic.</li>
+<li>While there is a huge price difference between convetional and organic yeast, more and more bakeries are making the switch despite the cost. Consumer awareness and education are pushing bakeries to keep offering better quality products.</li>
+</ul>
+<p><img alt="OnlineOrganics Made in Canada" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg"></p>
+<p>Locally made in Canada, buying our Instaferm yeast encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Produit du Quebec</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011315257505</id>
+      <title>450 grams (Vacuum Packed)</title>
+      <s:price currency="CAD">5.05</s:price>
+      <s:sku>NIC-11715-R</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011315257505</id>
+      <title>9 kg (20 x 450 grams) Box (20% OFF)</title>
+      <s:price currency="CAD">80.82</s:price>
+      <s:sku>NIC-11715-B9</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011315191969</id>
+    <published>2021-01-13T11:33:58-05:00</published>
+    <updated>2021-01-13T11:33:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-white-vinegar-12"/>
+    <title>Organic White Vinegar 12%</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-white-vinegar-12-pile.png?v=1610555639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            93.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic white vinegar 12% as its name implies has a 12% concentration of acetic acid. This classifies it as a high strength vinegar. Most store bought vinegars are in the 5-7% range so you can easily see how this vinegar is twice as strong. This is a good thing as you need to put much less of this vinegar compared to store bought ones.</p>
+<p>Our 20L format could be diluted by simply adding water to 40L saving fuel costs. This is a big environmental advantage as hauling around water is pretty useless and polluting.</p>
+<p> </p>
+<p><strong>Why buy organic vinegar?</strong></p>
+<ul>
+<li>White vinegar is made from corn alcohol. Conventionally, the type of corn used to make vinegar is highly modified GMO-corn. While this may not affect the final product, discouraging the use of GMO-corn is the best reason to switch to organic vinegar.</li>
+<li>Since this corn is designed to make corn alcohol, producers have little regard for pesticide and fertilizer use as yield is the driving factor.</li>
+<li>So you can understand why encouraging organic corn producers goes a long way to preserve our environment and waterways.</li>
+<li>Our organic white vinegar can be used for cooking and cleaning. You can simply dilute it for your intended use. At full strength it makes for an excellent cleaning product.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:tag>Indefinite</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011315191969</id>
+      <title>20L Wholesale Pail (20% OFF)</title>
+      <s:price currency="CAD">93.40</s:price>
+      <s:sku>FAR-VINBIO20-B20</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011315093665</id>
+    <published>2021-01-13T11:33:53-05:00</published>
+    <updated>2021-01-13T11:33:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-white-durum-wheat-semolina"/>
+    <title>Organic White Unbleached Sifted Durum Wheat Semolina</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-white-durum-wheat-semolina-pile.png?v=1612639871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            73.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic white unbleached sifted durum wheat semolina is made by ''La Milanaise'' in Quebec from organic white durum wheat. This semolina is sifted to remove the bran. It is ideal for  sprinkling on pizza and bread dough.</p>
+<p>Durum wheat, also called pasta wheat or macaroni wheat is the second most cultivated species of wheat after common wheat. Durum in Latin means "hard", and the species is the hardest of all wheats. This refers to the resistance of the grain to milling, in particular of the starchy endosperm, implying dough made from its flour is weak or "soft". This makes durum favorable for semolina and pasta flour.</p>
+<p>Semolina is the base to make couscous as well as numerous other middle-eastern meals. In Italy semolina is used for making a type of gnocchi called "Gnocchi alla Romana", where semolina is mixed with milk, cheese and butter to form a log, then cut in discs and baked with cheese and bechamel.</p>
+<p> </p>
+<p><strong>What is semolina?</strong></p>
+<ul>
+<li>Semolina comes from the latin words ''simila'', meaning ''flour'' and the Italian word ''semola'', means bran. Traditionally the word refers to durum wheat semolina as corn semolina is most often called cornmeal.</li>
+<li>Semolina is simply coarser ground flour. It can be used on its own in recipes and is also commonly used as dusting.</li>
+<li>So when you are ready to take your bread making and pizza dough to the next level, grab some organic semolina to prevent your dough from sticking. Since semolina does not absorb water like flour does a little goes farther.</li>
+</ul>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg" alt="OnlineOrganics Made in Canada"></p>
+<p>Locally grown in Canada, buying our organic white durum wheat semolina encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul>
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Year</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Produit du Quebec</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011315093665</id>
+      <title>20 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">73.60</s:price>
+      <s:sku>FAR-M-DUR-B20</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011314929825</id>
+    <published>2021-01-13T11:33:50-05:00</published>
+    <updated>2021-01-13T11:33:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-corn-semolina"/>
+    <title>Organic Corn Semolina</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-corn-semolina-pile.jpg?v=1610555632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            66.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic corn semolina also called cornmeal is made by ''La Milanaise'' in Quebec from organic whole grain corn. This gluten-free semolina is a great alternative to traditional durum wheat semolina.</p>
+<p>This organic corn semolina is not maze, that is to say that it has not been treated with silt, it is not nixtamalised flour.</p>
+<p>Cornmeal offers good amount of folic acid which is must for efficient use of protein and prevent the chances of birth defects. A serving size of cornmeal provides 10 percent of daily recommended intake. It also helps to get 8 percent of thiamine which is required for influencing nerves health. One serving of cornmeal helps to meet 4 percent of recommended value of riboflavin, iron and niacin. Iron supports production of red blood cells and niacin is beneficial for cardiovascular system.</p>
+<p>Cornmeal prevents cellular damage caused by free radicals. It also lowers the chances of macular degeneration, cancer and heart diseases. Research have shown that cornmeal has high content of antioxidants such as carotenoids which prevents the chances of various diseases such as heart disease and cancer.</p>
+<p> </p>
+<p><strong>What is semolina?</strong></p>
+<ul>
+<li>Semolina comes from the latin words ''simila'', meaning ''flour'' and the Italian word ''semola'', means bran. Traditionally the word refers to durum wheat semolina as corn semolina is most often called cornmeal.</li>
+<li>Semolina is simply coarser ground flour. It can be used on its own in recipes and is also commonly used as dusting.</li>
+<li>So when you are ready to take your bread making and pizza dough to the next level, grab some organic semolina to prevent your dough from sticking. Since semolina does not absorb water like flour does a little goes farther.</li>
+</ul>
+<p> </p>
+<p><img alt="OnlineOrganics Made in Canada" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/files/Made-In-Canada.jpg"></p>
+<p>Locally grown in Canada, buying our organic corn semolina encourages local farmers and reduces pollution from long-distance transportation.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Produit du Quebec</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Canada</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011314929825</id>
+      <title>20 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">66.40</s:price>
+      <s:sku>FAR-M-MAIS-B20</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/6011314798753</id>
+    <published>2021-01-13T11:33:43-05:00</published>
+    <updated>2021-01-13T11:33:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-heinz-ketchup"/>
+    <title>Organic Heinz Ketchup</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-heinz-ketchup-pile.png?v=1610555627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            124.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic Heinz tomato ketchup features the same great thick and rich taste as the classic ketchup, but every tomato is organically grown. No GMO ingredients, no high-fructose corn syrup, and 100% Heinz taste.</p>
+<p>Encouraging big companies like Heinz by buying their organic ketchup shows that we as consumers are ready to change to an organic diet. It is not a coincidence that they are coming out with an organic line. As their sales of organic products goes up, prices will go down as the whole food network is pushed towards organic farming.</p>
+<p>Each bottle is 750ml and there are 12 bottles per case.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/6011314798753</id>
+      <title>9L (12 x 750ml) Bottles (20% OFF)</title>
+      <s:price currency="CAD">124.38</s:price>
+      <s:sku>FAR-R-KETBIO-B9</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5954798026913</id>
+    <published>2020-12-12T18:11:12-05:00</published>
+    <updated>2020-12-12T18:11:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-psyllium-husk"/>
+    <title>Organic Psyllium Husk</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-psyllium-husk.jpg?v=1608341905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            117.35 - 377.75
+            <a href="https://onlineorganics.ca/products/organic-psyllium-husk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic psyllium husk is a soluble fiber derived from the seeds of the "Plantago ovata", an herb grown mainly in India. It helps ease digestion and control glucose levels after finishing a meal.</p>
+<p>Psyllium husk is very popular in gluten-free baking as it acts as a binder just like gluten. It help bread and other baked good stay moist and prevents them from crumbling. It is a good replacement for guar gum and xanthan gum in gluten-free baking. The calories in psyllium husk are exclusively from the fiber. Since it is not digested, it has no calorific effect.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Raw</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_India</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5954798026913</id>
+      <title>5 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">117.35</s:price>
+      <s:sku>IMP-33007-B5</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5954798026913</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">377.75</s:price>
+      <s:sku>GEN-GG4000-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749341880481</id>
+    <published>2020-10-03T20:11:26-04:00</published>
+    <updated>2020-10-03T20:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-grated-coconut-fine"/>
+    <title>Organic Grated Coconut (Fine)</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-grated-coconut-fine-pile.jpg?v=1603291061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            12.62 - 252.50
+            <a href="https://onlineorganics.ca/products/organic-grated-coconut-fine">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic grated coconut (Fine) is a great source of digestion-friendly and satiating fiber. They are also a dream ingredient for anyone who's following a low carb or Keto diet. Use them as a topping on your favorite desert, for baking or just to munch on.</p>
+<p>Coconut meat is rich in several important minerals, especially manganese and copper. While manganese supports enzyme function and fat metabolism, copper assists bone formation and heart health.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Sri Lanka</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749341880481</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">12.62</s:price>
+      <s:sku>GEN-NG1110-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749341880481</id>
+      <title>25 lb Wholesale Bag (10% OFF)</title>
+      <s:price currency="CAD">129.04</s:price>
+      <s:sku>IMP-30015-B11</s:sku>
+      <s:grams>11360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749341880481</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">252.50</s:price>
+      <s:sku>GEN-NG1112-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlineorganics.ca/products/5749337161889</id>
+    <published>2020-10-03T20:09:25-04:00</published>
+    <updated>2020-10-03T20:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlineorganics.ca/products/organic-grated-coconut-medium"/>
+    <title>Organic Grated Coconut (Medium)</title>
+    <s:type>Others</s:type>
+    <s:vendor>OnlineOrganics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0498/3190/3393/products/organic-grated-coconut-medium-pile.jpg?v=1603291400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineOrganics<br>
+        <strong>Type: </strong>Others<br>
+        <strong>Price: </strong>
+            12.60 - 252.00
+            <a href="https://onlineorganics.ca/products/organic-grated-coconut-medium">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organic grated coconut (Medium) is a great source of digestion-friendly and satiating fiber. They are also a dream ingredient for anyone who's following a low carb or Keto diet. Use them as a topping on your favorite desert, for baking or just to munch on.</p>
+<p>Coconut meat is rich in several important minerals, especially manganese and copper. While manganese supports enzyme function and fat metabolism, copper assists bone formation and heart health.</p>
+<p><br><br></p>
+<p><strong>Storage Tips:</strong></p>
+<ul style="list-style-type: disc;">
+<li>Nothing beats vacuum sealing for freshness.</li>
+<li>Store below 15°C and &lt; 65% humidity.</li>
+<li>Store in the dark as light degrades flavors.</li>
+<li>Mason jars make great storage containers.</li>
+<li>Can be frozen to prolong shelf life.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Years</s:tag>
+    <s:tag>Category_Others</s:tag>
+    <s:tag>Certification_Gluten-Free</s:tag>
+    <s:tag>Certification_Keto</s:tag>
+    <s:tag>Certification_Kosher</s:tag>
+    <s:tag>Certification_Organic</s:tag>
+    <s:tag>Certification_Vegan</s:tag>
+    <s:tag>Country_Sri Lanka</s:tag>
+    <s:tag>Format_Retail</s:tag>
+    <s:tag>Format_Wholesale</s:tag>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749337161889</id>
+      <title>1 kg (Vacuum Packed)</title>
+      <s:price currency="CAD">12.60</s:price>
+      <s:sku>GEN-NG1102-R</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlineorganics.ca/products/5749337161889</id>
+      <title>25 kg Wholesale Bag (20% OFF)</title>
+      <s:price currency="CAD">252.00</s:price>
+      <s:sku>GEN-NG1102-B25</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
